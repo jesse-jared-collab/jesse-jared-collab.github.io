@@ -3,10 +3,8 @@ layout: home
 image: /img/cropped.jpg
 ---
 
-I'm Jesse and here is a little bit more about me. Testing how to edit.
+I am a PhD candidate at the CUNY Graduate Center. My research is focused on social and political philosophy with particular attention paid to debates between libertarians, socialists, and anarchists over the moral status of the market and the state.
 
-Lorem ipsum dolor amet flexitarian twee artisan readymade skateboard try-hard asymmetrical tumblr, af authentic humblebrag mumblecore meh XOXO. 8-bit retro tilde, squid church-key locavore raw denim.
+I am presently working on a dissertation defending the coherence of left-libertarianism---a philosophical position that seeks to show that certain moral principles traditionally associated with libertarianism are compatible with egalitarian views about the distribution of resources. While standard accounts of left-libertarianism emphasize the mere compatibility of libertarian and egalitarian principles, I argue that core libertarian principles actually *entail* that goods should be distributed in accordance with an egalitarian principle typically associated with the socialist left.
 
-Kale chips chartreuse church-key, hell of sriracha chillwave distillery kickstarter. Messenger bag wayfarers literally pitchfork cold-pressed, kale chips pok pok.
-
-Green juice helvetica vape man braid dreamcatcher chambray. Offal everyday carry kogi vape next level gastropub umami humblebrag listicle sriracha try-hard squid.
+I can be reached at jesse [dot] e [dot] spafford [at] gmail [dot] com.
