@@ -1,10 +1,10 @@
 <!doctype html>
-<html class="no-js" lang="">
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <meta name="description" content="">
+  <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="manifest" href="site.webmanifest">
@@ -24,8 +24,12 @@
     <nav class="page-nav">
       {% for site-page in site.pages %}
         {% if site-page.show-in-navbar %}
-
-          <a class="page-nav-link{% if page.url == site-page.url %} page-nav-link-active{% endif %}" href="{{ site-page.url }}">{{site-page.title}}</a>
+          <a
+            class="page-nav-link{% if page.url == site-page.url %} page-nav-link-active{% endif %}"
+            href="{{ site-page.url }}"
+          >
+            {{ site-page.title }}
+          </a>
         {% endif %}
       {% endfor %}
     </nav>
@@ -33,13 +37,14 @@
   <main class="page-content">
     {{ content }}
   </main>
-  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+  {% if site.google-analytics-id %}
   <script>
-  window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
-ga('create', 'UA-XXXXX-Y', 'auto'); ga('set','transport','beacon'); ga('send',
-'pageview')
+window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+ga('create', '{{ site.google-analytics-id }}', 'auto');
+ga('set','transport','beacon'); ga('send', 'pageview')
 </script>
   <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+  {% endif %}
 </body>
 
 </html>
