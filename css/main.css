@@ -144,7 +144,7 @@ a:hover {
 
 .page-nav-link-active,
 .page-nav-link-active:visited {
-  /* TODO(jared): do something to indicate the current page in the nav */
+  color: #555;
 }
 
 .home-layout {
