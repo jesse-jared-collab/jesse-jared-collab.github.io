@@ -7,7 +7,7 @@ show-in-navbar: true
 
 # CV
 
-**Education**
+## Education
 
 PhD – The Graduate Center, CUNY, Philosophy, ABD
 
