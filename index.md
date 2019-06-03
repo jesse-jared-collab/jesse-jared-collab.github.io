@@ -1,6 +1,6 @@
 ---
 layout: home
-image: /img/jesse_1152x1728.jpg
+image: /img/cropped.jpg
 ---
 
 I'm Jesse and here is a little bit more about me.
