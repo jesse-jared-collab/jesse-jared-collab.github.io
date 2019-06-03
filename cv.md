@@ -70,7 +70,7 @@ Recognizes a Pomona College graduating senior who exhibits special talent in the
 
 Awarded to the student with the highest grade in a philosophy class (University of Auckland).
 
-## Teaching Experience*
+## Teaching Experience
 
 **Business Ethics**
 
@@ -79,11 +79,15 @@ Awarded to the student with the highest grade in a philosophy class (University 
 Undergraduate course averaging 35 students per section. Fall 2017 (1 section), Spring 2018 (1 section).
 
 **Introduction to the Problems of Philosophy**
+
 *Course Instructor - Brooklyn College, 2015–2017*
+
 Undergraduate course averaging 35 students per section. Fall 2015 (1 section), Spring 2016 (1 section), Fall 2016 (1 section), and Spring 2017 (1 section).
 
 **Critical Theories**
+
 *Guest Lecturer - The Dalton School, 2017–2018*
+
 Led small group discussions on libertarian views of initial appropriation and anarchist strategies for social change.
 
 ## Presentations
