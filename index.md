@@ -3,7 +3,7 @@ layout: home
 image: /img/cropped.jpg
 ---
 
-I'm Jesse and here is a little bit more about me.
+I'm Jesse and here is a little bit more about me. Testing how to edit.
 
 Lorem ipsum dolor amet flexitarian twee artisan readymade skateboard try-hard asymmetrical tumblr, af authentic humblebrag mumblecore meh XOXO. 8-bit retro tilde, squid church-key locavore raw denim.
 
