@@ -16,7 +16,7 @@ I have also been trained in the pedagocial practices developed by the [Writing A
 
 This introductory course is designed to expose students who have never before taken a philosophy course to a broad range of philosophical ideas and arguments. Its assigned readings attempt to balance the inclusion of (a) papers that have proven influential within the discipline, (b) papers that give a sense of the broader philosophical terrain, (b) papers that are fun and exciting, and (d) papers that I think are particularly important. The readings are also intended to cohere with one another, even as they span the different the subdisciplines; specifically, they have been selected with the intention that papers covered later in the course will build directly upon the arguments and ideas covered earlier in the semester. While the readings include some historical texts, the course primarily features contemporary authors writing in the analytic tradition.
 
-A recent syllabus can be found here.
+A recent syllabus can be found [here](/files/Business%20Ethics%20Syllabus.pdf).
 
 **Business Ethics**
 
