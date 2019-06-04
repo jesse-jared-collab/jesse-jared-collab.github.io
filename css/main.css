@@ -89,6 +89,7 @@ textarea {
 
 body {
   font-family: "Libre Franklin", sans-serif;
+  line-height: 1.45;
 }
 
 a,
@@ -127,18 +128,18 @@ a:hover {
   font-size: 1rem;
 }
 
-/* Type scale, based on https://type-scale.com/?size=16&scale=1.250&text=A%20Visual%20Type%20Scale&font=Libre%20Franklin&fontweight=400&bodyfont=Poppins&bodyfontweight=400&lineheight=1.45&backgroundcolor=white&fontcolor=%23333&preview=false */
+/* Type scale, based loosely on https://type-scale.com/?size=16&scale=1.200&text=A%20Visual%20Type%20Scale&font=Libre%20Franklin&fontweight=500&bodyfont=Libre%20Franklin&bodyfontweight=400&lineheight=1.45&backgroundcolor=white&fontcolor=%23333&preview=false */
 
 h1 {
   font-size: 2rem;
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.44rem;
 }
 
 h3 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
 }
 
 h4,
@@ -182,6 +183,11 @@ h6 {
 .home-layout-figure {
   margin: 0 2rem 0 0;
   width: 100%;
+  flex: 0.75;
+}
+
+.home-layout-content {
+  flex: 1;
 }
 
 .home-layout-image {
@@ -192,21 +198,11 @@ h6 {
   max-width: 35rem;
 }
 
-.text-column :first-child {
+.text-column-content :first-child {
   margin-top: 0;
 }
 
 @media (min-width: 576px) {
-  .page-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
-  .page-nav {
-    margin-top: 0;
-  }
-
   .home-layout {
     flex-direction: row;
   }
@@ -294,23 +290,6 @@ h6 {
 
 .clearfix:after {
   clear: both;
-}
-
-/* ==========================================================================
-   EXAMPLE Media Queries for Responsive Design.
-   These examples override the primary ('mobile first') styles.
-   Modify as content requires.
-   ========================================================================== */
-
-@media only screen and (min-width: 35em) {
-  /* Style adjustments for viewports that meet the condition */
-}
-
-@media print,
-  (-webkit-min-device-pixel-ratio: 1.25),
-  (min-resolution: 1.25dppx),
-  (min-resolution: 120dpi) {
-  /* Style adjustments for high resolution devices */
 }
 
 /* ==========================================================================
