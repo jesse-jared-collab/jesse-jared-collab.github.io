@@ -3,5 +3,8 @@ layout: default
 ---
 
 <article class="text-column">
+  <!-- Render a heading for bots/screenreaders, but hide it visually to prevent redundancy -->
+  <h1 class="visuallyhidden">{{ page.title }}</h1>
+
   {{ content }}
 </article>

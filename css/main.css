@@ -130,8 +130,24 @@ a:hover {
   font-size: 1rem;
 }
 
-.page-content h1 {
-  font-size: 1.75rem;
+/* Type scale, based on https://type-scale.com/?size=16&scale=1.250&text=A%20Visual%20Type%20Scale&font=Libre%20Franklin&fontweight=400&bodyfont=Poppins&bodyfontweight=400&lineheight=1.45&backgroundcolor=white&fontcolor=%23333&preview=false */
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+h4,
+h5,
+h6 {
+  font-size: 1rem;
 }
 
 .page-title {
@@ -153,7 +169,12 @@ a:hover {
 
 .page-nav-link-active,
 .page-nav-link-active:visited {
-  color: #555;
+  background: linear-gradient(
+    transparent 0px,
+    transparent 65%,
+    rgb(250, 160, 175) 0px,
+    rgb(250, 160, 175)
+  );
 }
 
 .home-layout {
@@ -172,6 +193,10 @@ a:hover {
 
 .text-column {
   max-width: 35rem;
+}
+
+.text-column :first-child {
+  margin-top: 0;
 }
 
 @media (min-width: 576px) {

@@ -4,8 +4,6 @@ permalink: /cv
 layout: page
 ---
 
-# CV
-
 ## Education
 
 **PhD** – The Graduate Center, CUNY, Philosophy, ABD
