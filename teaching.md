@@ -8,7 +8,7 @@ I have spent three years desinging and teaching introductory courses in philosop
 
 When it comes to teaching, I am interested in developing novel and effective teaching practices that also reflect egalitarian and anti-authoritarian values. For example, I have regularly included in my syllabi a "democracy in the classroom" policy giving students the power to democratically shape all aspects of the curriculum (excluding grading practices). I am also interested in [alternative grading practices](http://dailynous.com/2019/03/27/grade-anarchy-student-learning-guest-post-marcus-schultz-bergin/), and have experimented with effort-based grading schemes that have, so far, yielded results that I have judged to be generally favorable, though not without certain limited drawbacks. 
 
-I have also been trained in the pedagocial practices developed by the [Writing Across the Curriculum](https://www.jstor.org/stable/377412?seq=1#page_scan_tab_contents) movement.
+I have also received training in the pedagocial practices developed by the [Writing Across the Curriculum](https://www.jstor.org/stable/377412?seq=1#page_scan_tab_contents) movement.
 
 ## Courses Taught and Developed
 
