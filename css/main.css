@@ -91,10 +91,6 @@ body {
   font-family: "Libre Franklin", sans-serif;
 }
 
-p {
-  margin: 0 0 1rem 0;
-}
-
 a,
 a:visited {
   color: #222;
@@ -122,6 +118,7 @@ a:hover {
 .page-header,
 .page-content {
   width: 90%;
+  max-width: 978px;
   margin: 0 auto;
 }
 
@@ -216,7 +213,6 @@ h6 {
 
   .home-layout-figure {
     width: 22rem;
-    min-width: 22rem;
   }
 }
 
