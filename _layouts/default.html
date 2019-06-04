@@ -11,7 +11,7 @@
   <link rel="apple-touch-icon" href="icon.png">
   <!-- Place favicon.ico in the root directory -->
 
-  <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:400,500&display=swap" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:400,500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
 
@@ -22,15 +22,14 @@
   <header class="page-header">
     <h1 class="page-title"><a href="/">{{ site.title }}</a></h1>
     <nav class="page-nav">
-      {% for site-page in site.pages %}
-        {% if site-page.show-in-navbar %}
-          <a
-            class="page-nav-link{% if page.url == site-page.url %} page-nav-link-active{% endif %}"
-            href="{{ site-page.url }}"
-          >
-            {{ site-page.title }}
-          </a>
-        {% endif %}
+      {% for navbar-page in site.navbar %}
+        <a
+          class="page-nav-link{% if page.url == navbar-page.url %} page-nav-link-active{% endif %}"
+          href="{{ navbar-page.url }}"
+        >
+          {{ navbar-page.name }}
+        </a>
+
       {% endfor %}
     </nav>
   </header>

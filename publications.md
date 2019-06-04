@@ -2,7 +2,6 @@
 title: Publications
 permalink: /publications
 layout: page
-show-in-navbar: true
 ---
 
 # Publications
@@ -11,6 +10,6 @@ My research focuses on debates between libertarians, socialists, and anarchists 
 
 **Papers**
 
-"An Anarchist Interpretation of Marx's 'Ability to Needs' Principle." (forthcoming) *The Journal of Value Inquiry*.
+"An Anarchist Interpretation of Marx's 'Ability to Needs' Principle." (forthcoming) _The Journal of Value Inquiry_.
 
-"Community as Socialist Value." (forthcoming) *Public Affairs Quarterly*.
+"Community as Socialist Value." (forthcoming) _Public Affairs Quarterly_.

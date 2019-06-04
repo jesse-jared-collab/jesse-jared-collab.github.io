@@ -24,6 +24,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 google-analytics-id:
 twitter_username:
 github_username:
+navbar:
+  - name: Publications
+    url: /publications
+  - name: CV
+    url: /cv
 
 # Build settings
 markdown: kramdown
