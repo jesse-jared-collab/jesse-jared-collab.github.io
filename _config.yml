@@ -22,8 +22,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jessespafford.com" # the base hostname & protocol for your site, e.g. http://example.com
 google-analytics-id: UA-15837198-1
 navbar:
-  - name: Publications
-    url: /publications
+  - name: Research
+    url: /research
   - name: Teaching
     url: /teaching
   - name: CV
