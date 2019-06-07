@@ -29,6 +29,12 @@ navbar:
   - name: CV
     url: /cv
 
+plugins:
+  - jekyll-sitemap
+
+include:
+  - robots.txt
+
 # Build settings
 markdown: kramdown
 # Exclude from processing.
