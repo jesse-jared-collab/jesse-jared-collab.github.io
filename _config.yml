@@ -32,9 +32,6 @@ navbar:
 plugins:
   - jekyll-sitemap
 
-include:
-  - robots.txt
-
 # Build settings
 markdown: kramdown
 # Exclude from processing.
