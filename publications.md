@@ -12,6 +12,6 @@ My near-term project is completing my dissertation wherein I argue that socialis
 
 "An Anarchist Interpretation of Marx's 'Ability to Needs' Principle." (forthcoming) _The Journal of Value Inquiry_.
 
-[Accepted Manuscript Version](/files/AANP.docx).
+[Accepted Manuscript Version](/files/AANP.pdf).
 
 "Community as Socialist Value." (forthcoming) _Public Affairs Quarterly_.
