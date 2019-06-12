@@ -14,7 +14,7 @@ Areas of Competence: Philosophy, Politics, and Economics; Ethics; Philosophy of 
 
 **BA** – Pomona College, Philosophy, May 2012
 
-\
+ 
 
 ## Publications
 
@@ -24,8 +24,7 @@ Areas of Competence: Philosophy, Politics, and Economics; Ethics; Philosophy of 
 
 ## Honors and Awards
 
-**Mellon/ACLS Dissertation Completion Fellowship** (2019–2020)
-
+**Mellon/ACLS Dissertation Completion Fellowship** (2019–2020)\
 A one-year fellowship awarded to 67 fellows (out of over 1,000 applicants) to support them as they complete their dissertation.
 
 **Humane Studies Fellowship** (declined)\
