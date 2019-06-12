@@ -14,6 +14,8 @@ Areas of Competence: Philosophy, Politics, and Economics; Ethics; Philosophy of 
 
 **BA** – Pomona College, Philosophy, May 2012
 
+\
+
 ## Publications
 
 "An Anarchist Interpretation of Marx's 'Ability to Needs' Principle." (forthcoming) _The Journal of Value Inquiry_.
@@ -24,64 +26,51 @@ Areas of Competence: Philosophy, Politics, and Economics; Ethics; Philosophy of 
 
 **Mellon/ACLS Dissertation Completion Fellowship** (2019–2020)
 
-A \$38,000 fellowship awarded to 67 fellows (out of over 1,000 applicants) to support them as they complete their dissertation.
+A one-year fellowship awarded to 67 fellows (out of over 1,000 applicants) to support them as they complete their dissertation.
 
-**Humane Studies Fellowship** (declined)
-
+**Humane Studies Fellowship** (declined)\
 A \$3,000 grant awarded to support scholarship on topics relating to classical liberalism and libertarianism. Declined because of a conflicting fellowship.
 
-**CUNY Dissertation Completion Fellowship** (declined)
+**CUNY Dissertation Completion Fellowship** (declined)\
+A one-year fellowship awarded to select graduate students to support them as they complete their dissertation. Declined because of a conflicting fellowship.
 
-A \$25,000 fellowship awarded to select graduate students to support them as they complete their dissertation. Declined because of a conflicting fellowship.
-
-**The Center for Ethics & Global Politics Graduate Fellowship** (2018–2020)
-
+**The Center for Ethics & Global Politics Graduate Fellowship** (2018–2020)\
 Awarded to select graduate students who are able to represent the Center and who are doing notable work in political philosophy.
 
-**Adam Smith Fellowship** (2018–2019)
-
+**Adam Smith Fellowship** (2018–2019)\
 A \$5,000 grant awarded to graduate students who participate in a program promoting engagement with prominent libertarian political economists.
 
-**Semi-Finalist, Center for Education and Ethics Essay Competition** (2018)
-
+**Semi-Finalist, Center for Education and Ethics Essay Competition** (2018)\
 Awarded to the 10 best essays (out of over 60 submitted) addressing an important issue in educational policy and/or practice.
 
-**Graduate Student Stipend** (2018, 2016)
+**Graduate Student Stipend** (2018, 2016)\
+A small grant awarded to graduate students who have a presentation accepted at the American Philosophical Association’s Pacific Division Conference.
 
-A \$500 grant awarded to graduate students who have a presentation accepted at the American Philosophical Association’s Pacific Division Conference.
-
-**CUNY University Fellowship** (2014)
-
+**CUNY University Fellowship** (2014)\
 Supplemental grant awarded to select incoming students who demonstrate special philosophical potential.
 
-**CUNY Graduate Center Fellowship** (2014)
-
+**CUNY Graduate Center Fellowship** (2014)\
 Five-year fellowship covering tuition, fees, and providing a bi-annual and monthly stipend.
 
-**W. T. Jones Prize in Philosophy** (2012)
-
+**W. T. Jones Prize in Philosophy** (2012)\
 Recognizes a Pomona College graduating senior who exhibits special talent in the pursuit of philosophy.
 
-**First in Course Award for Political Philosophy** (2011)
-
+**First in Course Award for Political Philosophy** (2011)\
 Awarded to the student with the highest grade in a philosophy class (University of Auckland).
 
 ## Teaching Experience
 
-**Business Ethics**
-
+**Business Ethics**\
 _Course Instructor - Brooklyn College, 2017–2018_
 
 Undergraduate course averaging 35 students per section. Fall 2017 (1 section), Spring 2018 (1 section).
 
-**Introduction to the Problems of Philosophy**
-
+**Introduction to the Problems of Philosophy**\
 _Course Instructor - Brooklyn College, 2015–2017_
 
 Undergraduate course averaging 35 students per section. Fall 2015 (1 section), Spring 2016 (1 section), Fall 2016 (1 section), and Spring 2017 (1 section).
 
-**Critical Theories**
-
+**Critical Theories and Politics**\
 _Guest Lecturer - The Dalton School, 2017–2018_
 
 Led small group discussions on libertarian views of initial appropriation and anarchist strategies for social change.
