@@ -60,18 +60,15 @@ Awarded to the student with the highest grade in a philosophy class (University 
 ## Teaching Experience
 
 **Business Ethics**\
-_Course Instructor - Brooklyn College, 2017–2018_
-
+_Course Instructor - Brooklyn College, 2017–2018_\
 Undergraduate course averaging 35 students per section. Fall 2017 (1 section), Spring 2018 (1 section).
 
 **Introduction to the Problems of Philosophy**\
-_Course Instructor - Brooklyn College, 2015–2017_
-
+_Course Instructor - Brooklyn College, 2015–2017_\
 Undergraduate course averaging 35 students per section. Fall 2015 (1 section), Spring 2016 (1 section), Fall 2016 (1 section), and Spring 2017 (1 section).
 
 **Critical Theories and Politics**\
-_Guest Lecturer - The Dalton School, 2017–2018_
-
+_Guest Lecturer - The Dalton School, 2017–2018_\
 Led small group discussions on libertarian views of initial appropriation and anarchist strategies for social change.
 
 ## Presentations
