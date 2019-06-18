@@ -1,9 +1,10 @@
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN
+  github_token: $GITHUB_TOKEN  # Set in Travis UI
   keep_history: true
   fqdn: https://jessespafford.com
   target_branch: master
+  local_dir: _site
   on:
     branch: source
