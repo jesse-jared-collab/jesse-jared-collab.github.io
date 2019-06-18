@@ -8,7 +8,7 @@ I have designed two introductory philosophy courses and taught six sections of u
 
 When it comes to teaching, I am interested in developing novel and effective teaching practices that also reflect egalitarian and anti-authoritarian principles. For example, I have regularly included in my syllabi a "democracy in the classroom" policy giving students the power to democratically shape all aspects of the curriculum (excluding how grades are assigned). I am also interested in alternative grading practices, and have experimented with effort-based grading schemes to generally favorable results.
 
-I have also received training in the pedagocial practices associated with the [Writing Across the Curriculum](https://www.jstor.org/stable/377412?seq=1#page_scan_tab_contents) movement.
+I have also received training in the pedagocial practices associated with the [Writing Across the Curriculum](https://www.jstor.org/stable/377412?seq=1#page_scan_tab_contents){:target="_blank"} movement.
 
 ## Courses Taught and Developed
 
@@ -22,4 +22,4 @@ A recent syllabus can be found [here](/files/Intro%20Syllabus.pdf){:target="_bla
 
 An introductory course intended for students who are not necessarily inclined to take another philosophy course. It attempts to run through the major moral questions that will face people who go into business, either as laborers or entrepreneurs. The course takes a primarily political approach, attempting to introduce big-picture questions about how economic acitivity ought to be structured. It also covers classic questions in business ethics (e.g., stakeholder vs. shareholder theory) and explores how major abstract ethical theories can be applied to practical questions facing workers and businesspeople.
 
-A recent syllabus can be found [here](/files/Business%20Ethics%20Syllabus.pdf).
+A recent syllabus can be found [here](/files/Business%20Ethics%20Syllabus.pdf){:target="_blank"}.
