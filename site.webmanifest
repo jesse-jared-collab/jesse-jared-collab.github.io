@@ -1,8 +1,6 @@
----
----
 {
-  "name": "{{ site.title }}",
-  "short_name": "{{ site.title }}",
+  "name": "Jesse Spafford",
+  "short_name": "Jesse Spafford",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
