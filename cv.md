@@ -28,7 +28,7 @@ Areas of Competence: Philosophy, Politics, and Economics; Ethics; Philosophy of 
 A one-year fellowship awarded to 67 fellows (out of over 1,000 applicants) to support them as they complete their dissertation.
 
 **Humane Studies Fellowship** (declined)  
-A \$3,000 grant awarded to support scholarship on topics relating to classical liberalism and libertarianism. Declined because of a conflicting fellowship.
+A grant awarded to support scholarship on topics relating to classical liberalism and libertarianism. Declined because of a conflicting fellowship.
 
 **CUNY Dissertation Completion Fellowship** (declined)  
 A one-year fellowship awarded to select graduate students to support them as they complete their dissertation. Declined because of a conflicting fellowship.
@@ -37,7 +37,7 @@ A one-year fellowship awarded to select graduate students to support them as the
 Awarded to select graduate students who are able to represent the Center and who are doing notable work in political philosophy.
 
 **Adam Smith Fellowship** (2018–2019)  
-A \$5,000 grant awarded to graduate students who participate in a program promoting engagement with prominent libertarian political economists.
+A grant awarded to graduate students who participate in a program promoting engagement with prominent libertarian political economists.
 
 **Semi-Finalist, Center for Education and Ethics Essay Competition** (2018)  
 Awarded to the 10 best essays (out of over 60 submitted) addressing an important issue in educational policy and/or practice.
