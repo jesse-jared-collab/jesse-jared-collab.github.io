@@ -1,5 +1,5 @@
-task default: %w[build]
+task :default => [:build]
 
 task :build do
-  jekyll build
+  bundle exec "jekyll build"
 end
