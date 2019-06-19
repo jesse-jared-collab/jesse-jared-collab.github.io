@@ -1,6 +1,6 @@
 ---
 layout: home
-image: jesse_1152x1239.jpg
+image: jesse_1152x1239.jp2
 ---
 
 I am a PhD candidate at the CUNY Graduate Center. My research is focused on social and political philosophy with particular attention paid to debates between libertarians, socialists, and anarchists over the moral status of the market and the state.
