@@ -39,6 +39,10 @@ compression: true
 gzip: true
 assets:
   compression: true
+  sources:
+    - static
+    - css
+    - img
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
