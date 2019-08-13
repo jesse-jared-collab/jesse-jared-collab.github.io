@@ -10,6 +10,8 @@ My near-term project is completing my dissertation wherein I argue that socialis
 
 **Papers**
 
+"Social Anarchism and the Rejection of Private Property." (forthcoming) in _The Routledge Handbook of Anarchy and Anarchist Thought_, edited by Gary Chartier and Chad van Schoelandt, Routledge.
+
 "An Anarchist Interpretation of Marx's 'Ability to Needs' Principle." (forthcoming) _The Journal of Value Inquiry_.  
 [Accepted Manuscript Version](/files/AANP.pdf){:target="_blank"}.
 
