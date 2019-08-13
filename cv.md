@@ -18,6 +18,8 @@ Areas of Competence: Philosophy, Politics, and Economics; Ethics; Philosophy of 
 
 ## Publications
 
+"Social Anarchism and the Rejection of Private Property." (forthcoming) in _The Routledge Handbook of Anarchy and Anarchist Thought_, edited by Gary Chartier and Chad van Schoelandt, Routledge.
+
 "An Anarchist Interpretation of Marx's 'Ability to Needs' Principle." (forthcoming) _The Journal of Value Inquiry_.
 
 "Community as Socialist Value." (forthcoming) _Public Affairs Quarterly_.
@@ -84,6 +86,8 @@ Led small group discussions on libertarian views of initial appropriation and an
 “Rescuing Equality from the Demand for Justification,” presented at the American Philosophical Association Pacific Division Conference, 2016.
 
 ## Comments
+
+Mark Jensen, "Meta-obligations and the Disparate Power of Negative Objection and Positive Proposal: A Case Study in the Morality of Markets," Rocky Mountain Ethics Congress, 2019.
 
 Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, and Reasonable Beneficence to All,” Rocky Mountain Ethics Congress, 2018.
 
