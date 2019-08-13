@@ -87,9 +87,9 @@ Led small group discussions on libertarian views of initial appropriation and an
 
 ## Comments
 
-Mark Jensen, "Meta-obligations and the Disparate Power of Negative Objection and Positive Proposal: A Case Study in the Morality of Markets," Rocky Mountain Ethics Congress, 2019.
+Mark Jensen, "Meta-obligations and the Disparate Power of Negative Objection and Positive Proposal: A Case Study in the Morality of Markets," Rocky Mountain Ethics Congress, 2019. (Available [here](/files/Jensen%20RoME%202019%20Comments.pdf){:target="_blank"}).
 
-Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, and Reasonable Beneficence to All,” Rocky Mountain Ethics Congress, 2018.
+Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, and Reasonable Beneficence to All,” Rocky Mountain Ethics Congress, 2018. (Available [here](/files/Crummett%20and%20Swenson%20Comments.pdf){:target="_blank"}).
 
 ## Service
 
@@ -101,8 +101,8 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Selected Popular Publications
 
-**_The New Inquiry_** – “[Beyond Belief](https://thenewinquiry.com/beyond-belief/),” “[Just the Facts](https://thenewinquiry.com/just-the-facts/),” “[Dissatisfaction City](https://thenewinquiry.com/dissatisfaction-city/),” “[The Esoteric Whodunit](https://thenewinquiry.com/the-esoteric-whodunit/),” “[The Selfless Man](https://thenewinquiry.com/the-selfless-man/).”
+**_The New Inquiry_** – “[Beyond Belief](https://thenewinquiry.com/beyond-belief/){:target="_blank"},” “[Just the Facts](https://thenewinquiry.com/just-the-facts/){:target="_blank"},” “[Dissatisfaction City](https://thenewinquiry.com/dissatisfaction-city/){:target="_blank"},” “[The Esoteric Whodunit](https://thenewinquiry.com/the-esoteric-whodunit/){:target="_blank"},” “[The Selfless Man](https://thenewinquiry.com/the-selfless-man/){:target="_blank"}.”
 
-**_Racism Review_** – “[White Supremacism as Meme: How Reddit is Breeding a New Generation of Violent Racism](http://www.racismreview.com/blog/2013/11/11/white-supremacism-meme-reddit-breeds-violent-racism/),” “[Dark Arts: Stormfront, Lacan, and White Supremacy](http://www.racismreview.com/blog/2012/12/11/stormfront-and-lacan/).”
+**_Racism Review_** – “[White Supremacism as Meme: How Reddit is Breeding a New Generation of Violent Racism](http://www.racismreview.com/blog/2013/11/11/white-supremacism-meme-reddit-breeds-violent-racism/){:target="_blank"},” “[Dark Arts: Stormfront, Lacan, and White Supremacy](http://www.racismreview.com/blog/2012/12/11/stormfront-and-lacan/){:target="_blank"}.”
 
-**_Cyborgology_** – “[Scientific Digital Dualism](https://thesocietypages.org/cyborgology/2013/08/21/scientific-digital-dualism/),” “[Destabilizing Digital Dualism](https://thesocietypages.org/cyborgology/2013/09/30/destabilizing-digital-dualism/).”
+**_Cyborgology_** – “[Scientific Digital Dualism](https://thesocietypages.org/cyborgology/2013/08/21/scientific-digital-dualism/){:target="_blank"},” “[Destabilizing Digital Dualism](https://thesocietypages.org/cyborgology/2013/09/30/destabilizing-digital-dualism/){:target="_blank"}.”
