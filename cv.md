@@ -20,9 +20,9 @@ Areas of Competence: Philosophy, Politics, and Economics; Ethics; Philosophy of 
 
 "Social Anarchism and the Rejection of Private Property." (forthcoming) in _The Routledge Handbook of Anarchy and Anarchist Thought_, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
 
-"An Anarchist Interpretation of Marx's 'Ability to Needs' Principle." (forthcoming) _The Journal of Value Inquiry_.
+"p[An Anarchist Interpretation of Marx's 'Ability to Needs' Principle](https://link.springer.com/article/10.1007/s10790-019-09698-1){:target="_blank"}." (forthcoming) _The Journal of Value Inquiry_.
 
-"Community as Socialist Value." (forthcoming) _Public Affairs Quarterly_.
+"[Community as Socialist Value](https://paq.press.uillinois.edu/33/3/spafford.html){:target="_blank"}." (2019) _Public Affairs Quarterly_ 33(3): 215-42.
 
 ## Honors and Awards
 
@@ -56,8 +56,6 @@ Five-year fellowship covering tuition, fees, and providing a bi-annual and month
 **W. T. Jones Prize in Philosophy** (2012)  
 Recognizes a Pomona College graduating senior who exhibits special talent in the pursuit of philosophy.
 
-**First in Course Award for Political Philosophy** (2011)  
-Awarded to the student with the highest grade in a philosophy class (University of Auckland).
 
 ## Teaching Experience
 
@@ -74,6 +72,8 @@ _Guest Lecturer - The Dalton School, 2017–2018_
 Led small group discussions on libertarian views of initial appropriation and anarchist strategies for social change.
 
 ## Presentations
+
+"Justification, Explanation, and Egalitarianism," presented at the MANCEPT Workshops, 2019.
 
 “Initial Appropriation and Duty-Creation," presented at the North American Society for Social Philosophy Annual Conference, 2019.
 
