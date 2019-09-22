@@ -20,7 +20,7 @@ Areas of Competence: Philosophy, Politics, and Economics; Ethics; Philosophy of 
 
 "Social Anarchism and the Rejection of Private Property." (forthcoming) in _The Routledge Handbook of Anarchy and Anarchist Thought_, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
 
-"p[An Anarchist Interpretation of Marx's 'Ability to Needs' Principle](https://link.springer.com/article/10.1007/s10790-019-09698-1){:target="_blank"}." (forthcoming) _The Journal of Value Inquiry_.
+"[An Anarchist Interpretation of Marx's 'Ability to Needs' Principle](https://link.springer.com/article/10.1007/s10790-019-09698-1){:target="_blank"}." (forthcoming) _The Journal of Value Inquiry_.
 
 "[Community as Socialist Value](https://paq.press.uillinois.edu/33/3/spafford.html){:target="_blank"}." (2019) _Public Affairs Quarterly_ 33(3): 215-42.
 
