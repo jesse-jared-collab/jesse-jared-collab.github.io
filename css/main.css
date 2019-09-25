@@ -165,11 +165,6 @@ h6 {
   margin-right: 1rem;
 }
 
-a:not(.page-nav-link):not(.page-title-link):hover {
-  background: none;
-}
-
-a:not(.page-nav-link):not(.page-title-link),
 .page-nav-link-active,
 .page-nav-link-active:visited {
   background: linear-gradient(
