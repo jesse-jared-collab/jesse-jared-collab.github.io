@@ -18,6 +18,8 @@ Areas of Competence: Philosophy, Politics, and Economics; Ethics; Philosophy of 
 
 ## Publications
 
+"Does Initial Appropriation Create New Obligations?" (forthcoming) _The Journal of Ethics and Social Philosophy_.
+
 "Social Anarchism and the Rejection of Private Property." (forthcoming) in _The Routledge Handbook of Anarchy and Anarchist Thought_, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
 
 "[An Anarchist Interpretation of Marx's 'Ability to Needs' Principle](https://link.springer.com/article/10.1007/s10790-019-09698-1){:target="_blank"}." (forthcoming) _The Journal of Value Inquiry_.
