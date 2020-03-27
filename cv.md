@@ -20,7 +20,7 @@ Areas of Competence: Philosophy, Politics, and Economics; Ethics; Philosophy of 
 
 "Does Initial Appropriation Create New Obligations?" (forthcoming) _The Journal of Ethics and Social Philosophy_.
 
-"Social Anarchism and the Rejection of Private Property." (forthcoming) in _The Routledge Handbook of Anarchy and Anarchist Thought_, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
+"[Social Anarchism and the Rejection of Private Property](/files/SpaffordSocialAnarchism.pdf){:target="_blank"}." (forthcoming) in _The Routledge Handbook of Anarchy and Anarchist Thought_, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
 
 "[An Anarchist Interpretation of Marx's 'Ability to Needs' Principle](https://link.springer.com/article/10.1007/s10790-019-09698-1){:target="_blank"}." (forthcoming) _The Journal of Value Inquiry_.
 
@@ -74,6 +74,8 @@ _Guest Lecturer - The Dalton School, 2017–2018_
 Led small group discussions on libertarian views of initial appropriation and anarchist strategies for social change.
 
 ## Presentations
+
+"Social Anarchism and the Rejection of Private Property," presented at the Philosophy, Politics & Economics Society Annual Meeting, 2020. Presentation at the American Philosophical Association Pacific Division Conference cancelled due to COVID-19.
 
 "Justification, Explanation, and Egalitarianism," presented at the MANCEPT Workshops, 2019.
 
