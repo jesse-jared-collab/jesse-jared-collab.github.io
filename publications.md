@@ -12,7 +12,7 @@ My near-term project is completing my dissertation wherein I argue that socialis
 
 "Does Initial Appropriation Create New Obligations?" (forthcoming) _The Journal of Ethics and Social Philosophy_.
 
-"Social Anarchism and the Rejection of Private Property." (forthcoming) in _The Routledge Handbook of Anarchy and Anarchist Thought_, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
+"[Social Anarchism and the Rejection of Private Property](/files/SpaffordSocialAnarchism.pdf){:target="_blank"}." (forthcoming) in _The Routledge Handbook of Anarchy and Anarchist Thought_, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
 
 "[An Anarchist Interpretation of Marx's 'Ability to Needs' Principle](https://link.springer.com/article/10.1007/s10790-019-09698-1){:target="_blank"}." (forthcoming) _The Journal of Value Inquiry_.  
 [Accepted Manuscript Version](/files/AANP.pdf){:target="_blank"}.
