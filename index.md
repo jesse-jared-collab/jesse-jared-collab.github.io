@@ -3,7 +3,7 @@ layout: home
 image: jesse_1152x1239.jp2
 ---
 
-Starting in September, I will be a postdoctoral researcher at Trinity College Dublin working on the project [REAL - _Rights and Egalitarianism_](https://www.tcd.ie/Philosophy/assets/pdfs/phd2019.pdf){:target="_blank"}. 
+I am a Research Fellow at Trinity College Dublin working on the project [REAL - _Rights and Egalitarianism_](https://www.tcd.ie/Philosophy/assets/pdfs/phd2019.pdf){:target="_blank"}. 
 
 My research is focused on social and political philosophy with particular attention paid to debates between libertarians, socialists, and anarchists over the moral status of the market and the state.
 
