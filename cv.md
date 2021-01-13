@@ -20,7 +20,7 @@ Areas of Competence: Philosophy, Politics, and Economics; Ethics; Philosophy of 
 
 "[Does Initial Appropriation Create New Obligations?](http://jesp.org/index.php/jesp/article/view/952){:target="_blank"}" (2020) _The Journal of Ethics and Social Philosophy_ 17(2): 228-38.
 
-"[Social Anarchism and the Rejection of Private Property](/files/SpaffordSocialAnarchism.pdf){:target="_blank"}." (forthcoming) in [_The Routledge Handbook of Anarchy and Anarchist Thought_](https://www.routledge.com/The-Routledge-Handbook-of-Anarchy-and-Anarchist-Thought/Chartier-Schoelandt/p/book/9781138737587?fbclid=IwAR1djhuz_0oQd_CY3fza_aIuGvZUmVjk8H0yBn3dJHXP_Op_ZfZ9r6Dk5yc){:target="_blank"}, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
+"[Social Anarchism and the Rejection of Private Property](/files/SpaffordSocialAnarchism.pdf){:target="_blank"}." (2021) in [_The Routledge Handbook of Anarchy and Anarchist Thought_](https://www.routledge.com/The-Routledge-Handbook-of-Anarchy-and-Anarchist-Thought/Chartier-Schoelandt/p/book/9781138737587?fbclid=IwAR1djhuz_0oQd_CY3fza_aIuGvZUmVjk8H0yBn3dJHXP_Op_ZfZ9r6Dk5yc){:target="_blank"}, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
 
 "[An Anarchist Interpretation of Marx's 'Ability to Needs' Principle](/files/AANP.pdf){:target="_blank"}." (2020) _The Journal of Value Inquiry_. 54(2): 325-43.
 
@@ -76,9 +76,11 @@ Led small group discussions on libertarian views of initial appropriation and an
 
 ## Presentations
 
+"When 'Enough and As Good' is Not Good Enough," presented at the American Philosophical Association Eastern Division Conference, 2021.
+
 "Social Anarchism and the Rejection of Private Property," presented at the Philosophy, Politics & Economics Society Annual Meeting, 2020. Presentations at the American Philosophical Association Pacific Division Conference and North American Society for Social Philosophy Annual Conference cancelled due to COVID-19.
 
-"Justification, Explanation, and Egalitarianism," presented at the MANCEPT Workshops, 2019.
+"Justification, Explanation, and Egalitarianism," presented at the Joint Trinity College Dublin/University College Cork Philosophy Colloquium, 2020 and MANCEPT Workshops, 2019.
 
 “Initial Appropriation and Duty-Creation," presented at the North American Society for Social Philosophy Annual Conference, 2019.
 
