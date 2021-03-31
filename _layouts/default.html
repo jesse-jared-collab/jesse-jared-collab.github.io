@@ -39,13 +39,14 @@
   <main class="page-content">
     {{ content }}
   </main>
-  {% if site.google-analytics-id %}
-  <script>
-window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
-ga('create', '{{ site.google-analytics-id }}', 'auto');
-ga('set','transport','beacon'); ga('send', 'pageview')
-</script>
-  <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+  {% if site.google-analytics-id and site.google-analytics-id != '' %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google-analytics-id }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.google-analytics-id }}');
+    </script>
   {% endif %}
 </body>
 
