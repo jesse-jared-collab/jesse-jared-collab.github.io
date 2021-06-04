@@ -8,9 +8,9 @@ layout: page
 
 **PhD** – The Graduate Center, CUNY, Philosophy, June 2020
 
-Area of Specialization: Social and Political Philosophy
+Area of Specialization: Social and Political Philosophy; Ethics
 
-Areas of Competence: Philosophy, Politics, and Economics; Ethics; Philosophy of Race and Gender; Philosophy of Science
+Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and Gender; Philosophy of Science
 
 **BA** – Pomona College, Philosophy, May 2012
 
