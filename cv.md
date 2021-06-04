@@ -17,9 +17,9 @@ Areas of Competence: Philosophy, Politics, and Economics; Ethics; Philosophy of 
   
 ## Peer Reviewed Journal Articles
 
-"Luck Egalitarianism Without Moral Tyranny" (forthcoming) _Philosophical Studies_.
+"Luck Egalitarianism Without Moral Tyranny." (forthcoming) _Philosophical Studies_.
 
-"Explanation, Justification, and Egalitarianism" (forthcoming) _Synthese_.
+"Explanation, Justification, and Egalitarianism." (forthcoming) _Synthese_.
 
 "[Does Initial Appropriation Create New Obligations?](http://jesp.org/index.php/jesp/article/view/952){:target="_blank"}" (2020) _The Journal of Ethics and Social Philosophy_ 17(2): 228-38.
 
