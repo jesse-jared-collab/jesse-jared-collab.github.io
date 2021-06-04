@@ -15,16 +15,21 @@ Areas of Competence: Philosophy, Politics, and Economics; Ethics; Philosophy of 
 **BA** – Pomona College, Philosophy, May 2012
 
   
+## Peer Reviewed Journal Articles
 
-## Publications
+"Luck Egalitarianism Without Moral Tyranny" (forthcoming) _Philosophical Studies_.
+
+"Explanation, Justification, and Egalitarianism" (forthcoming) _Synthese_.
 
 "[Does Initial Appropriation Create New Obligations?](http://jesp.org/index.php/jesp/article/view/952){:target="_blank"}" (2020) _The Journal of Ethics and Social Philosophy_ 17(2): 228-38.
-
-"[Social Anarchism and the Rejection of Private Property](/files/SpaffordSocialAnarchism.pdf){:target="_blank"}." (2021) in [_The Routledge Handbook of Anarchy and Anarchist Thought_](https://www.routledge.com/The-Routledge-Handbook-of-Anarchy-and-Anarchist-Thought/Chartier-Schoelandt/p/book/9781138737587?fbclid=IwAR1djhuz_0oQd_CY3fza_aIuGvZUmVjk8H0yBn3dJHXP_Op_ZfZ9r6Dk5yc){:target="_blank"}, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
 
 "[An Anarchist Interpretation of Marx's 'Ability to Needs' Principle](/files/AANP.pdf){:target="_blank"}." (2020) _The Journal of Value Inquiry_. 54(2): 325-43.
 
 "[Community as Socialist Value](/files/Community.pdf){:target="_blank"}." (2019) _Public Affairs Quarterly_ 33(3): 215-42.
+
+## Book Chapters
+
+"[Social Anarchism and the Rejection of Private Property](/files/SpaffordSocialAnarchism.pdf){:target="_blank"}." (2021) in [_The Routledge Handbook of Anarchy and Anarchist Thought_](https://www.routledge.com/The-Routledge-Handbook-of-Anarchy-and-Anarchist-Thought/Chartier-Schoelandt/p/book/9781138737587?fbclid=IwAR1djhuz_0oQd_CY3fza_aIuGvZUmVjk8H0yBn3dJHXP_Op_ZfZ9r6Dk5yc){:target="_blank"}, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
 
 
 ## Honors and Awards
@@ -76,6 +81,8 @@ Led small group discussions on libertarian views of initial appropriation and an
 
 ## Presentations
 
+“You Own Yourself and Nothing Else,” presented at American Philosophical Association Pacific Division Conference, 2021, the Georgetown Institute for the Study of Markets and Ethics (GISME) workshop, 2021, and the Trinity Centre for Justice and Values Works in Progress Workshop, 2021.
+
 "When 'Enough and As Good' is Not Good Enough," presented at the American Philosophical Association Eastern Division Conference, 2021.
 
 "Social Anarchism and the Rejection of Private Property," presented at the Philosophy, Politics & Economics Society Annual Meeting, 2020. Presentations at the American Philosophical Association Pacific Division Conference and North American Society for Social Philosophy Annual Conference cancelled due to COVID-19.
@@ -100,13 +107,17 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Service
 
+**_Australasian Journal of Philosophy_** – reviewed papers as part of the blind peer review process.
+
 **_Journal of Social Philosophy_** – reviewed papers as part of the blind peer review process.
 
 **Peer Mentoring Program 2017-2019** – mentored first-year PhD students to help them navigate graduate school and begin the process of professionalization.
 
 **Democratic Socialists of America Political Education Committee** – developed and implemented a variety of educational programming introducing DSA members and non-members to socialist political philosophy.
 
-## Selected Popular Publications
+## Public Facing Work
+
+**Mutual Exchange Radio** - "[Jesse Spafford on the Libertarian Case Against Property Rights](https://c4ss.org/content/54893){:target="_blank"}." (podcast interview)
 
 **_The New Inquiry_** – “[Beyond Belief](https://thenewinquiry.com/beyond-belief/){:target="_blank"},” “[Just the Facts](https://thenewinquiry.com/just-the-facts/){:target="_blank"},” “[Dissatisfaction City](https://thenewinquiry.com/dissatisfaction-city/){:target="_blank"},” “[The Esoteric Whodunit](https://thenewinquiry.com/the-esoteric-whodunit/){:target="_blank"},” “[The Selfless Man](https://thenewinquiry.com/the-selfless-man/){:target="_blank"}.”
 
