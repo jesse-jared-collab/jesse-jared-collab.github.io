@@ -8,7 +8,7 @@ layout: page
 
 **PhD** – The Graduate Center, CUNY, Philosophy, June 2020
 
-Area of Specialization: Social and Political Philosophy; Ethics
+Areas of Specialization: Social and Political Philosophy; Ethics
 
 Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and Gender; Philosophy of Science
 
