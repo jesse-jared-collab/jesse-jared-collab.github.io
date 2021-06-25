@@ -17,7 +17,7 @@ Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and
   
 ## Peer Reviewed Journal Articles
 
-"Luck Egalitarianism Without Moral Tyranny." (forthcoming) _Philosophical Studies_.
+"[Luck Egalitarianism Without Moral Tyranny](https://link.springer.com/article/10.1007%2Fs11098-021-01667-4){:target="_blank"}." (forthcoming) _Philosophical Studies_.
 
 "Explanation, Justification, and Egalitarianism." (forthcoming) _Synthese_.
 
