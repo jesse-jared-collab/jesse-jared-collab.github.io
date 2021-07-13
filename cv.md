@@ -19,7 +19,7 @@ Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and
 
 "[Luck Egalitarianism Without Moral Tyranny](https://link.springer.com/article/10.1007%2Fs11098-021-01667-4){:target="_blank"}." (forthcoming) _Philosophical Studies_.
 
-"Explanation, Justification, and Egalitarianism." (forthcoming) _Synthese_.
+"[Explanation, Justification, and Egalitarianism](https://link.springer.com/article/10.1007/s11229-021-03222-4){:target="_blank"}." (forthcoming) _Synthese_.
 
 "[Does Initial Appropriation Create New Obligations?](http://jesp.org/index.php/jesp/article/view/952){:target="_blank"}" (2020) _The Journal of Ethics and Social Philosophy_ 17(2): 228-38.
 
