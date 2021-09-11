@@ -11,7 +11,7 @@ I take anarchism qua political philosophy to be the joint endorsement of (a) sel
 I am currently working on a book defending this anarchist position. It characterizes social anarchism as the endorsement of a set of influential—but seemingly incompatible—philosophical theses. It then aims to show that these theses are not only compatible, but also logically connected, with some members of the set entailing the remaining members. Additionally, it contends that the theses are entailed by an independent meta-principle, which represents a novel ground for these principles. Finally, it argues that the theses avoid a number of objections raised in the literature once they have been adjusted to conform to the meta-principle. Thus, the book concludes that social anarchism *qua* political philosophy is both coherent and plausible.
 
 
-##Journal Articles
+## Journal Articles
 
 "[Luck Egalitarianism Without Moral Tyranny](https://link.springer.com/article/10.1007%2Fs11098-021-01667-4){:target="_blank"}." (forthcoming) _Philosophical Studies_.
 
@@ -37,7 +37,7 @@ Marx famously declared that, under communism, goods and services would flow from
 Socialists often appeal to community as a foundational value. However, few socialist philosophers have attempted to develop a detailed account of the concept. This paper remedies this oversight by providing a positive account of community _qua_ socialist value. According to this account, greater community is said to exist among the members of some groups to the extent that they have a greater disposition to enhance (and a weaker disposition to diminish) one another’s welfare. In defense of this account, the paper posits three _desiderata_ that any theory of community should satisfy. It then argues that the account successfully satisfies these _desiderata_ whereas the major rival accounts of community discussed in the literature do not.
 
 
-##Book Chapters
+## Book Chapters
 
 "[Social Anarchism and the Rejection of Private Property](/files/SpaffordSocialAnarchism.pdf){:target="_blank"}." (2021) in [_The Routledge Handbook of Anarchy and Anarchist Thought_](https://www.routledge.com/The-Routledge-Handbook-of-Anarchy-and-Anarchist-Thought/Chartier-Schoelandt/p/book/9781138737587?fbclid=IwAR1djhuz_0oQd_CY3fza_aIuGvZUmVjk8H0yBn3dJHXP_Op_ZfZ9r6Dk5yc){:target="_blank"}, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
 
