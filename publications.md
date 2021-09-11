@@ -20,9 +20,17 @@ I am currently working on a book defending this anarchist position. It character
 
 "[Explanation, Justification, and Egalitarianism](https://link.springer.com/article/10.1007/s11229-021-03222-4){:target="_blank"}." (forthcoming) _Synthese_.
 
+>Suppose that there is some existing inequality that cannot be justified. Many egalitarians would conclude that this inequality is unjust. But why think that an inequality is unjust absent justification? In other words, why presume that inequality demands justification (in a way that equality does not)? This paper answers these questions by arguing that there is a consistent parallelism between the properties of justification and the properties of _explanation_ such that one can infer that any property of explanation has a counterpart property of justification. It then presents two properties of explanation, the justificatory analogs of which vindicate the egalitarian presumption.
+
+
 "[Does Initial Appropriation Create New Obligations?](http://jesp.org/index.php/jesp/article/view/952){:target="_blank"}" (2020) _The Journal of Ethics and Social Philosophy_ 17(2): 228-38.
 
+>The standard libertarian position is that people can convert unowned resources into private property via acts of initial appropriation. However, this view seemingly grants people a problematic moral power to impose new duties on others without their consent. In reply to this objection, Bas van der Vossen has argued that initial appropriation does not impose new duties on others; rather, it changes the particular requirements of their already-existing duties. This makes appropriation of a kind with various unproblematic actions like growing out ones hair. When a person grows out new hair, people gain a new requirement to not touch this hair without her consent. However, this is not a new duty but, rather, an implication of the already-existing duty to not touch a person’s body without consent. Similarly, van der Vossen contends that appropriation’s imposed requirements simply follow from an already-existing duty to respect appropriators’ property claims. He thereby concludes that there is nothing uniquely problematic about initial appropriation. Against his reply, this paper argues that unproblematic acts like hair growing _do not_ impose new requirements on others. Thus, even if appropriation does not impose new general duties, it is still uniquely allows people to impose novel requirements on people without their consent. Special skepticism of the power to appropriate therefore remains warranted.
+
 "[An Anarchist Interpretation of Marx's 'Ability to Needs' Principle](/files/AANP.pdf){:target="_blank"}." (2020) _The Journal of Value Inquiry_. 54(2): 325-43.
+
+Marx famously declared that, under communism, goods and services would flow from each person according to her ability to each according to her needs. Interestingly, this slogan has been embraced by a number of prominent anarchists who otherwise reject Marx’s views. This paper explains this phenomenon by arguing that there is a distinctive anarchist interpretation of Marx’s “ability to needs” principle: goods and services ought to be provided unconditionally. The paper then argues that this interpretation is entailed by the proposition that freedom diminishment is (at least prima facie) morally objectionable.
+
 
 "[Community as Socialist Value](/files/Community.pdf){:target="_blank"}." (2019) _Public Affairs Quarterly_ 33(3): 215-42.
 
