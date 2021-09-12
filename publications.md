@@ -34,7 +34,8 @@ Marx famously declared that, under communism, goods and services would flow from
 
 "[Community as Socialist Value](/files/Community.pdf){:target="_blank"}." (2019) _Public Affairs Quarterly_ 33(3): 215-42.
 
-Socialists often appeal to community as a foundational value. However, few socialist philosophers have attempted to develop a detailed account of the concept. This paper remedies this oversight by providing a positive account of community _qua_ socialist value. According to this account, greater community is said to exist among the members of some groups to the extent that they have a greater disposition to enhance (and a weaker disposition to diminish) one another’s welfare. In defense of this account, the paper posits three _desiderata_ that any theory of community should satisfy. It then argues that the account successfully satisfies these _desiderata_ whereas the major rival accounts of community discussed in the literature do not.
+Socialists often appeal to community as a foundational value. However, few socialist philosophers have attempted to develop a detailed account of the concept. This paper remedies this oversight by providing a positive account of community _qua_ socialist value. According to this account, greater community is said to exist among the members of some groups to the extent that they have a greater disposition to enhance (and a weaker disposition to diminish) one another’s welfare. In defense of this account, the paper posits three _desiderata_ that any theory of community should satisfy. It then argues that the account successfully satisfies these _desiderata_ whereas the major rival accounts of community discussed in the literature do not. Finally, it argues that capitalism undermines community by pitting people against one another. Specifically, it identifies three ways in which capitalist markets make it so that people can only advance their interests at others’ expense.
+
 
 
 ## Book Chapters
