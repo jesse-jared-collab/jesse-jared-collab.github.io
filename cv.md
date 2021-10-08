@@ -14,7 +14,10 @@ Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and
 
 **BA** – Pomona College, Philosophy, May 2012
 
-  
+## Book
+
+*Social Anarchism and the Rejection of Moral Tyranny*, under review with Cambridge University Press.
+
 ## Peer Reviewed Journal Articles
 
 "[Luck Egalitarianism Without Moral Tyranny](https://link.springer.com/article/10.1007%2Fs11098-021-01667-4){:target="_blank"}." (forthcoming) _Philosophical Studies_.
@@ -27,7 +30,7 @@ Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and
 
 "[Community as Socialist Value](/files/Community.pdf){:target="_blank"}." (2019) _Public Affairs Quarterly_ 33(3): 215-42.
 
-## Book Chapters
+## Book Chapter
 
 "[Social Anarchism and the Rejection of Private Property](/files/SpaffordSocialAnarchism.pdf){:target="_blank"}." (2021) in [_The Routledge Handbook of Anarchy and Anarchist Thought_](https://www.routledge.com/The-Routledge-Handbook-of-Anarchy-and-Anarchist-Thought/Chartier-Schoelandt/p/book/9781138737587?fbclid=IwAR1djhuz_0oQd_CY3fza_aIuGvZUmVjk8H0yBn3dJHXP_Op_ZfZ9r6Dk5yc){:target="_blank"}, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
 
