@@ -1,6 +1,6 @@
 ---
 layout: home
-image: jesse_1152x1239.jp2
+image: jesse_1034x1169.jpg
 ---
 
 I am a Research Fellow at Trinity College Dublin working on the project [REAL - _Rights and Egalitarianism_](https://www.realresearch.eu/){:target="_blank"}. 
