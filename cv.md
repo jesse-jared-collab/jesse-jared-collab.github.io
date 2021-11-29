@@ -14,9 +14,6 @@ Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and
 
 **BA** – Pomona College, Philosophy, May 2012
 
-## Book
-
-*Social Anarchism and the Rejection of Moral Tyranny*, under review with Cambridge University Press.
 
 ## Peer Reviewed Journal Articles
 
