@@ -17,7 +17,7 @@ Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and
 
 ## Peer Reviewed Journal Articles
 
-"[Luck Egalitarianism Without Moral Tyranny](https://link.springer.com/article/10.1007%2Fs11098-021-01667-4){:target="_blank"}." (forthcoming) _Philosophical Studies_.
+"[Luck Egalitarianism Without Moral Tyranny](https://link.springer.com/article/10.1007%2Fs11098-021-01667-4){:target="_blank"}." (2022) _Philosophical Studies_ 179(2): 469-93.
 
 "[Explanation, Justification, and Egalitarianism](https://link.springer.com/article/10.1007/s11229-021-03222-4){:target="_blank"}." (2021) _Synthese_ 199(3-4): 9699-9724.
 
@@ -81,7 +81,9 @@ Led small group discussions on libertarian views of initial appropriation and an
 
 ## Presentations
 
-“You Own Yourself and Nothing Else,” presented at American Philosophical Association Pacific Division Conference, 2021, the Georgetown Institute for the Study of Markets and Ethics (GISME) workshop, 2021, and the Trinity Centre for Justice and Values Works in Progress Workshop, 2021.
+"Self-Ownership and the Duty to Assist," presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2022.
+
+“You Own Yourself and Nothing Else,” presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2022; the American Philosophical Association Pacific Division Conference, 2021; the Georgetown Institute for the Study of Markets and Ethics (GISME) workshop, 2021; and the Trinity Centre for Justice and Values Works in Progress Workshop, 2021.
 
 "When 'Enough and As Good' is Not Good Enough," presented at the American Philosophical Association Eastern Division Conference, 2021.
 
@@ -111,16 +113,20 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 **_Journal of Social Philosophy_** – reviewed papers as part of the blind peer review process.
 
+**_Journal of Value Inquiry_** – reviewed papers as part of the blind peer review process.
+
 **Peer Mentoring Program 2017-2019** – mentored first-year PhD students to help them navigate graduate school and begin the process of professionalization.
 
 **Democratic Socialists of America Political Education Committee** – developed and implemented a variety of educational programming introducing DSA members and non-members to socialist political philosophy.
 
 ## Public Facing Work
 
+**Give Them an Argument** - "[Season 3, Episode 40: Amazon Labor Victory + Community as a Socialist Value (ft. Jesse Spafford)](https://youtu.be/gX6CJnEZZ-A?t=2461){:target="_blank"}." (Youtube channel interview)
+
+**The Ben Burgis Call-In Show** - "[Episode 40: Libertarian Property-Rights Arguments Fall Apart (ft. Jesse Spafford)](https://www.callin.com/episode/episode-40-libertarian-property-rights-XtwLmWtkHf){:target="_blank"}." (call-in show interview)
+
 **Mutual Exchange Radio** - "[Jesse Spafford on the Libertarian Case Against Property Rights](https://c4ss.org/content/54893){:target="_blank"}." (podcast interview)
 
 **_The New Inquiry_** – “[Beyond Belief](https://thenewinquiry.com/beyond-belief/){:target="_blank"},” “[Just the Facts](https://thenewinquiry.com/just-the-facts/){:target="_blank"},” “[Dissatisfaction City](https://thenewinquiry.com/dissatisfaction-city/){:target="_blank"},” “[The Esoteric Whodunit](https://thenewinquiry.com/the-esoteric-whodunit/){:target="_blank"},” “[The Selfless Man](https://thenewinquiry.com/the-selfless-man/){:target="_blank"}.”
 
 **_Racism Review_** – “[White Supremacism as Meme: How Reddit is Breeding a New Generation of Violent Racism](http://www.racismreview.com/blog/2013/11/11/white-supremacism-meme-reddit-breeds-violent-racism/){:target="_blank"},” “[Dark Arts: Stormfront, Lacan, and White Supremacy](http://www.racismreview.com/blog/2012/12/11/stormfront-and-lacan/){:target="_blank"}.”
-
-**_Cyborgology_** – “[Scientific Digital Dualism](https://thesocietypages.org/cyborgology/2013/08/21/scientific-digital-dualism/){:target="_blank"},” “[Destabilizing Digital Dualism](https://thesocietypages.org/cyborgology/2013/09/30/destabilizing-digital-dualism/){:target="_blank"}.”
