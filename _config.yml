@@ -26,6 +26,8 @@ navbar:
     url: /research
   - name: Teaching
     url: /teaching
+  - name: Public Philosophy
+    url: /public-philosophy
   - name: CV
     url: /cv
 
