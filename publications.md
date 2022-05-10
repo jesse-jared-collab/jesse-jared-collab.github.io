@@ -13,7 +13,12 @@ I am currently working on a book defending this anarchist position. It character
 
 ## Journal Articles
 
-"[Luck Egalitarianism Without Moral Tyranny](https://link.springer.com/article/10.1007%2Fs11098-021-01667-4){:target="_blank"}." (forthcoming) _Philosophical Studies_.
+"Self-Ownership and the Duty to Assist." (forthcoming) _Journal of Applied Philosophy_.
+
+Libertarians are attracted to the self-ownership thesis because it seems to satisfy four important theoretical _desiderata_. First, the thesis treats all persons equally by assigning them the same initial set of rights. Second, the thesis gives people the strongest set of ownership rights possible. Third, it assigns persons a determinate set of rights. And, finally, it grounds the libertarian rejection of a duty to assist, benefit, or rescue others. This paper argues that these four _desiderata_ cannot be simultaneously satisfied. Specifically, it contends that the first three _desiderata_ can be jointly satisfied only if the thesis merely gives people the right to include their owned bodies in various actions (as opposed to a stronger version of the thesis that gives people permissions to do things with their bodies). However, such an interpretation of the thesis will not satisfy the final _desideratum_. Thus, libertarians face a tetralemma when defining the self-ownership thesis.
+
+
+"[Luck Egalitarianism Without Moral Tyranny](https://link.springer.com/article/10.1007%2Fs11098-021-01667-4){:target="_blank"}." (2022) _Philosophical Studies_ 179(2): 469-93.
 
 Luck egalitarianism assigns a person a smaller share of advantage than others if and only if she makes certain _sanctionable choices_. It does this to avoid strict egalitarianism’s _moral tyranny_ problem. According to strict egalitarianism, each person is entitled to an equal share irrespective of her past actions. For example, a person who ceaselessly destroys her holdings is still entitled to an equal share of advantage; thus, to comply with the theory, everyone else would have to keep redistributing resources to her until they are left with nothing. To state the moral tyranny problem generally: strict egalitarianism allows people to leave others worse off conditional on full compliance with the moral theory. By contrast, luck egalitarians contend that the destroyer chooses sanctionably, thereby forfeiting any claim to redistribution. However, some general theory of sanctionable choice is needed to support this contention. This paper proposes such a theory and argues that it resolves three influential objections to standard luck egalitarianism (including the objection that luck egalitarianism still licenses moral tyranny).
 
