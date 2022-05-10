@@ -17,6 +17,8 @@ Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and
 
 ## Peer Reviewed Journal Articles
 
+"Self-Ownership and the Duty to Assist." (forthcoming) _Journal of Applied Philosophy_.
+
 "[Luck Egalitarianism Without Moral Tyranny](https://link.springer.com/article/10.1007%2Fs11098-021-01667-4){:target="_blank"}." (2022) _Philosophical Studies_ 179(2): 469-93.
 
 "[Explanation, Justification, and Egalitarianism](https://link.springer.com/article/10.1007/s11229-021-03222-4){:target="_blank"}." (2021) _Synthese_ 199(3-4): 9699-9724.
