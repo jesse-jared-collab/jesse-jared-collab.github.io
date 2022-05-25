@@ -111,7 +111,7 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Service
 
-**_Reviewing_** – I have reviewed papers for the _Australasian Journal of Philosophy_, _European Journal of Political Theory_, _Journal of Ethics and Social Philosophy_, _Journal of Social Philosophy_, and _Journal of Value Inquiry_.
+**Reviewing** – I have reviewed papers for the _Australasian Journal of Philosophy_, _European Journal of Political Theory_, _Journal of Ethics and Social Philosophy_, _Journal of Social Philosophy_, and _Journal of Value Inquiry_.
 
 **Peer Mentoring Program 2017-2019** – mentored first-year PhD students to help them navigate graduate school and begin the process of professionalization.
 
