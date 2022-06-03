@@ -111,11 +111,11 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Service
 
-**Reviewing** – I have reviewed papers for the _Australasian Journal of Philosophy_, _European Journal of Political Theory_, _Journal of Ethics and Social Philosophy_, _Journal of Social Philosophy_, and _Journal of Value Inquiry_.
+**Reviewing** – I have reviewed papers for the _Australasian Journal of Philosophy_, the _European Journal of Political Theory_, the _Journal of Ethics and Social Philosophy_, the _Journal of Social Philosophy_, and the _Journal of Value Inquiry_.
 
-**Peer Mentoring Program 2017-2019** – mentored first-year PhD students to help them navigate graduate school and begin the process of professionalization.
+**Peer Mentoring Program 2017-2019** – I mentored first-year PhD students to help them navigate graduate school and begin the process of professionalization.
 
-**Democratic Socialists of America Political Education Committee** – developed and implemented a variety of educational programming introducing DSA members and non-members to socialist political philosophy.
+**Democratic Socialists of America Political Education Committee** – I developed and implemented a variety of educational programming introducing DSA members and non-members to socialist political philosophy.
 
 ## Public Facing Work
 
