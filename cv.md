@@ -85,7 +85,7 @@ Led small group discussions on libertarian views of initial appropriation and an
 
 "Self-Ownership and the Duty to Assist," presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2022.
 
-“You Own Yourself and Nothing Else,” presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2022; the American Philosophical Association Pacific Division Conference, 2021; the Georgetown Institute for the Study of Markets and Ethics (GISME) workshop, 2021; and the Trinity Centre for Justice and Values Works in Progress Workshop, 2021.
+“You Own Yourself and Nothing Else,” presented at the Locke and Lockeanism Working Group Meeting, 2022; the Philosophy, Politics, & Economics Society Annual Meeting, 2022; the American Philosophical Association Pacific Division Conference, 2021; the Georgetown Institute for the Study of Markets and Ethics (GISME) workshop, 2021; and the Trinity Centre for Justice and Values Works in Progress Workshop, 2021.
 
 "When 'Enough and As Good' is Not Good Enough," presented at the American Philosophical Association Eastern Division Conference, 2021.
 
@@ -111,7 +111,7 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Service
 
-**Reviewing** – I have reviewed papers for the _Australasian Journal of Philosophy_, the _European Journal of Political Theory_, the _Journal of Ethics and Social Philosophy_, the _Journal of Social Philosophy_, and the _Journal of Value Inquiry_.
+**Reviewing** – I have reviewed papers for the _Australasian Journal of Philosophy_, _Economics and Philosophy_, the _European Journal of Political Theory_, the _Journal of Ethics and Social Philosophy_, the _Journal of Social Philosophy_, and the _Journal of Value Inquiry_.
 
 **Peer Mentoring Program 2017-2019** – I mentored first-year PhD students to help them navigate graduate school and begin the process of professionalization.
 
