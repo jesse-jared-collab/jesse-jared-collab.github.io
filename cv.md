@@ -14,6 +14,15 @@ Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and
 
 **BA** – Pomona College, Philosophy, May 2012
 
+## Postdoctoral Positions
+
+**Project REAL** - Trinity College Dublin, September 2020-present
+
+REAL is a five-year [research project](https://www.realresearch.eu/) headed by Adina Preda and funded by a European Research Council Consolidator grant. As a Research Fellow, I produce research that supports the project's mission to reconcile theories of rights and egalitarian theories of distributive justice.
+
+## Book
+
+_Social Anarchism and the Rejection of Moral Tyranny_. Under contract with Cambridge University Press.
 
 ## Peer Reviewed Journal Articles
 
@@ -33,6 +42,9 @@ Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and
 
 "[Social Anarchism and the Rejection of Private Property](/files/SpaffordSocialAnarchism.pdf){:target="_blank"}." (2021) in [_The Routledge Handbook of Anarchy and Anarchist Thought_](https://www.routledge.com/The-Routledge-Handbook-of-Anarchy-and-Anarchist-Thought/Chartier-Schoelandt/p/book/9781138737587?fbclid=IwAR1djhuz_0oQd_CY3fza_aIuGvZUmVjk8H0yBn3dJHXP_Op_ZfZ9r6Dk5yc){:target="_blank"}, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
 
+## Book Review
+
+"Book Review of Gerald Lang's _Strokes of Luck_," _Ethics_, commissioned.
 
 ## Honors and Awards
 
@@ -81,9 +93,15 @@ Undergraduate course averaging 35 students per section. Fall 2015 (1 section), S
 _Guest Lecturer - The Dalton School, 2017–2018_  
 Led small group discussions on libertarian views of initial appropriation and anarchist strategies for social change.
 
+**Writing Across the Curriculum**
+_WAC Fellow - Brooklyn College, 2018-2019_
+Worked with faculty from various disciplines to help them integrate creative and research-supported writing assignments into their curricula.
+
+(Due to receiving a Mellon/ACLS Dissertation Completion Fellowship, I was prohibited from teaching in 2019-2020. I am also contractually prohibited from teaching by my current postdoctoral position).
+
 ## Presentations
 
-"Self-Ownership and the Duty to Assist," presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2022.
+"Self-Ownership and the Duty to Assist," presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2022 and Rocky Mountain Ethics Congress, 2022 (poster).
 
 “You Own Yourself and Nothing Else,” presented at the Locke and Lockeanism Working Group Meeting, 2022; the Philosophy, Politics, & Economics Society Annual Meeting, 2022; the American Philosophical Association Pacific Division Conference, 2021; the Georgetown Institute for the Study of Markets and Ethics (GISME) workshop, 2021; and the Trinity Centre for Justice and Values Works in Progress Workshop, 2021.
 
@@ -101,7 +119,7 @@ Led small group discussions on libertarian views of initial appropriation and an
 
 “Rescuing the Community Principle,” presented at the North American Society for Social Philosophy Annual Conference, 2016.
 
-“Rescuing Equality from the Demand for Justification,” presented at the American Philosophical Association Pacific Division Conference, 2016.
+“Rescuing Equality from the Demand for Justification,” presented at the American Philosophical Association Pacific Division Conference, 2016 (poster).
 
 ## Comments
 
