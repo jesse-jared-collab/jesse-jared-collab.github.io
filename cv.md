@@ -22,7 +22,7 @@ REAL is a five-year [research project](https://www.realresearch.eu/) headed by A
 
 ## Book
 
-_Social Anarchism and the Rejection of Moral Tyranny_. Under contract with Cambridge University Press.
+_Social Anarchism and the Rejection of Moral Tyranny_, under contract with Cambridge University Press.
 
 ## Peer Reviewed Journal Articles
 
