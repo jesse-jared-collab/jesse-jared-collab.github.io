@@ -11,9 +11,9 @@ layout: page
 
 [Mutual Exchange Radio](https://c4ss.org/content/54893){:target="_blank"} - "Jesse Spafford on the Libertarian Case Against Property Rights." (podcast interview)
 
-## Public Engagement
+## Public Engagement with My Research
 
-**"Social Anarchism and the Rejection of Private Property"** ([original](https://jessespafford.com/files/SpaffordSocialAnarchism.pdf){:target="_blank"})
+**Discussions of "Social Anarchism and the Rejection of Private Property"** ([original](https://jessespafford.com/files/SpaffordSocialAnarchism.pdf){:target="_blank"})**:**
 
 [Jacobin](https://jacobinmag.com/2022/04/us-tax-day-filing-complicated-returns){:target="_blank"} - "Doing Your Taxes Doesn't Have to Be This Miserable," by Ben Burgis.
 
