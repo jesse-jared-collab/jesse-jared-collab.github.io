@@ -44,7 +44,7 @@ _Social Anarchism and the Rejection of Moral Tyranny_, under contract with Cambr
 
 ## Book Review
 
-"Book Review of Gerald Lang's _Strokes of Luck_," _Ethics_, commissioned.
+"Book Review of Gerald Lang's _Strokes of Luck: A Study in Moral and Political Philosophy_," _Ethics_, commissioned.
 
 ## Honors and Awards
 
