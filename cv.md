@@ -26,7 +26,7 @@ _Social Anarchism and the Rejection of Moral Tyranny_, under contract with Cambr
 
 ## Peer Reviewed Journal Articles
 
-"[Self-Ownership and the Duty to Assist](https://onlinelibrary.wiley.com/doi/10.1111/japp.12595){:target="_blank"}." (forthcoming) _Journal of Applied Philosophy_.
+"[Self-Ownership and the Duty to Assist](https://onlinelibrary.wiley.com/doi/10.1111/japp.12595){:target="_blank"}." (2022) _Journal of Applied Philosophy_ 39(5): 857-69.
 
 "[Luck Egalitarianism Without Moral Tyranny](https://link.springer.com/article/10.1007%2Fs11098-021-01667-4){:target="_blank"}." (2022) _Philosophical Studies_ 179(2): 469-93.
 
@@ -44,7 +44,7 @@ _Social Anarchism and the Rejection of Moral Tyranny_, under contract with Cambr
 
 ## Book Review
 
-"Book Review of Gerald Lang's _Strokes of Luck: A Study in Moral and Political Philosophy_," _Ethics_, commissioned.
+"Book Review of Gerald Lang's _Strokes of Luck: A Study in Moral and Political Philosophy_," _Ethics_, forthcoming.
 
 ## Honors and Awards
 
