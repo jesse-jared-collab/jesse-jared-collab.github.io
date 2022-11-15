@@ -13,7 +13,7 @@ I am currently working on a book defending this anarchist position (under contra
 
 ## Journal Articles
 
-"[Self-Ownership and the Duty to Assist](https://onlinelibrary.wiley.com/doi/10.1111/japp.12595){:target="_blank"}." (forthcoming) _Journal of Applied Philosophy_.
+"[Self-Ownership and the Duty to Assist](https://onlinelibrary.wiley.com/doi/10.1111/japp.12595){:target="_blank"}." (2022) _Journal of Applied Philosophy_ 39(5): 857-69.
 
 Libertarians are attracted to the self-ownership thesis because it seems to satisfy four important theoretical _desiderata_. First, the thesis treats all persons equally by assigning them the same initial set of rights. Second, the thesis gives people the strongest set of ownership rights possible. Third, it assigns persons a determinate set of rights. And, finally, it grounds the libertarian rejection of a duty to assist, benefit, or rescue others. This paper argues that these four _desiderata_ cannot be simultaneously satisfied. Specifically, it contends that the first three _desiderata_ can be jointly satisfied only if the thesis merely gives people the right to include their owned bodies in various actions (as opposed to a stronger version of the thesis that gives people permissions to do things with their bodies). However, such an interpretation of the thesis will not satisfy the final _desideratum_. Thus, libertarians face a tetralemma when defining the self-ownership thesis.
 
