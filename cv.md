@@ -34,7 +34,7 @@ _Social Anarchism and the Rejection of Moral Tyranny_, under contract with Cambr
 
 "[Does Initial Appropriation Create New Obligations?](http://jesp.org/index.php/jesp/article/view/952){:target="_blank"}" (2020) _The Journal of Ethics and Social Philosophy_ 17(2): 228-38.
 
-"[An Anarchist Interpretation of Marx's 'Ability to Needs' Principle](/files/AANP.pdf){:target="_blank"}." (2020) _The Journal of Value Inquiry_. 54(2): 325-43.
+"[An Anarchist Interpretation of Marx's 'Ability to Needs' Principle](/files/AANP.pdf){:target="_blank"}." (2020) _The Journal of Value Inquiry_ 54(2): 325-43.
 
 "[Community as Socialist Value](/files/Community.pdf){:target="_blank"}." (2019) _Public Affairs Quarterly_ 33(3): 215-42.
 
@@ -44,7 +44,7 @@ _Social Anarchism and the Rejection of Moral Tyranny_, under contract with Cambr
 
 ## Book Review
 
-"Book Review of Gerald Lang's _Strokes of Luck: A Study in Moral and Political Philosophy_," _Ethics_, forthcoming.
+"[Book Review of Gerald Lang's _Strokes of Luck: A Study in Moral and Political Philosophy](files/Lang.pdf)." (2023) _Ethics_, 133(3):429-34.
 
 ## Honors and Awards
 
