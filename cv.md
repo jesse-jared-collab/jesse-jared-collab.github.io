@@ -44,7 +44,7 @@ _Social Anarchism and the Rejection of Moral Tyranny_, under contract with Cambr
 
 ## Book Review
 
-"[Book Review of Gerald Lang's _Strokes of Luck: A Study in Moral and Political Philosophy](files/Lang.pdf){:target="_blank"}." (2023) _Ethics_, 133(3):429-34.
+"[Book Review of Gerald Lang's _Strokes of Luck: A Study in Moral and Political Philosophy_](files/Lang.pdf){:target="_blank"}." (2023) _Ethics_, 133(3):429-34.
 
 ## Honors and Awards
 
