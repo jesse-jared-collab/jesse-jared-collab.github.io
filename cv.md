@@ -97,8 +97,6 @@ Led small group discussions on libertarian views of initial appropriation and an
 _WAC Fellow - Brooklyn College, 2018-2019_
 Worked with faculty from various disciplines to help them integrate creative and research-supported writing assignments into their curricula.
 
-(Due to receiving a Mellon/ACLS Dissertation Completion Fellowship, I was prohibited from teaching in 2019-2020. I am also contractually prohibited from teaching by my current postdoctoral position).
-
 ## Presentations
 
 "Self-Ownership and the Duty to Assist," presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2022 and Rocky Mountain Ethics Congress, 2022 (poster).
