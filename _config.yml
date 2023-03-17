@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Jesse Spafford
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a PhD candidate at the CUNY Graduate Center. My research is focused on social and political
+  I am a postdoctoral Research Fellow at Trinity College Dublin. My research is focused on social and political
   philosophy with particular attention paid to debates between libertarians, socialists,
   and anarchists over the moral status of the market and the state.
 baseurl: "" # the subpath of your site, e.g. /blog
