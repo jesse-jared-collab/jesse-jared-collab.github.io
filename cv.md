@@ -99,6 +99,8 @@ Worked with faculty from various disciplines to help them integrate creative and
 
 ## Presentations
 
+"Incas, Aliens, and Anarchists," presented at the American Philosophical Association Pacific Division Conference, 2023 (poster).
+
 "Self-Ownership and the Duty to Assist," presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2022 and Rocky Mountain Ethics Congress, 2022 (poster).
 
 “You Own Yourself and Nothing Else,” presented at the Locke and Lockeanism Working Group Meeting, 2022; the Philosophy, Politics, & Economics Society Annual Meeting, 2022; the American Philosophical Association Pacific Division Conference, 2021; the Georgetown Institute for the Study of Markets and Ethics (GISME) workshop, 2021; and the Trinity Centre for Justice and Values Works in Progress Workshop, 2021.
