@@ -123,6 +123,8 @@ Worked with faculty from various disciplines to help them integrate creative and
 
 ## Comments
 
+Mary Jo MacDonald, "John Locke and Sarah Chapone: The Role of Bequest in Political Obligation," Locke and Lockeanism Working Group Meeting, 2023.
+
 Mark Jensen, "Meta-obligations and the Disparate Power of Negative Objection and Positive Proposal: A Case Study in the Morality of Markets," Rocky Mountain Ethics Congress, 2019. (Available [here](/files/Jensen%20RoME%202019%20Comments.pdf){:target="_blank"}).
 
 Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, and Reasonable Beneficence to All,” Rocky Mountain Ethics Congress, 2018. (Available [here](/files/Crummett%20and%20Swenson%20Comments.pdf){:target="_blank"}).
