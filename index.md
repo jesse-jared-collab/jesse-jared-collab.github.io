@@ -2,6 +2,15 @@
 layout: home
 image: jesse_1034x1169.jpg
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EX32E7FD6Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EX32E7FD6Z');
+</script>
 
 I am currently a Research Fellow at Trinity College Dublin working on the project [REAL - _Rights and Egalitarianism_](https://www.realresearch.eu/){:target="_blank"}. Starting in July, I will be a Lecturer at the Victoria University of Wellington.
 
