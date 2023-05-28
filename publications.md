@@ -3,6 +3,15 @@ title: Research
 permalink: /research
 layout: page
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EX32E7FD6Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EX32E7FD6Z');
+</script>
 
 My research focuses on debates between libertarians, socialists, and anarchists over the moral status of the market and the state. I also do work in ethics, mostly exploring the necessary conditions for possessing Hohfeldian incidents such as rights, powers, and immunities. I am primarily interested in rights, consent, philosophical anarchism, luck egalitarianism, self-ownership, private property, initial appropriation, and Analytical Marxism.  My long-term project is to provide a normative defense of a heterodox variety of anarchism.
 
