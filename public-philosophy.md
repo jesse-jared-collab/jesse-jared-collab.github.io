@@ -3,6 +3,16 @@ title: Public Philosophy
 permalink: /public-philosophy
 layout: page
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EX32E7FD6Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EX32E7FD6Z');
+</script>
+
 ## Interviews
 
 [Give Them an Argument](https://youtu.be/gX6CJnEZZ-A?t=2461){:target="_blank"} - "Season 3, Episode 40: Amazon Labor Victory + Community as a Socialist Value (ft. Jesse Spafford)." (Youtube channel interview)
