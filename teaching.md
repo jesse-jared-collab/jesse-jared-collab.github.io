@@ -3,6 +3,15 @@ title: Teaching
 permalink: /teaching
 layout: page
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EX32E7FD6Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EX32E7FD6Z');
+</script>
 
 I have designed two introductory philosophy courses and taught six sections of undergraduates at Brooklyn College. This has given me the opportunity to work with a diverse group of traditional and non-traditional college students coming from a wide variety of backgrounds. I have also worked with high school seniors at the Dalton School, where I planned and led small group discussions on various topics in political philosophy.
 
