@@ -14,6 +14,7 @@ layout: page
 </script>
 
 ## Interviews
+[Think Phil](https://www.youtube.com/watch?v=GVO2ZY6TqNw&ab_channel=ThinkPhil){:target="_blank"} - "Property Rights and Political Authority." (Youtube Channel interview)
 
 [Give Them an Argument](https://youtu.be/gX6CJnEZZ-A?t=2461){:target="_blank"} - "Season 3, Episode 40: Amazon Labor Victory + Community as a Socialist Value (ft. Jesse Spafford)." (Youtube channel interview)
 
