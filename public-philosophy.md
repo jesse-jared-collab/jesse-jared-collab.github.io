@@ -14,9 +14,9 @@ layout: page
 </script>
 
 ## Interviews
-[Think Phil](https://www.youtube.com/watch?v=GVO2ZY6TqNw&ab_channel=ThinkPhil){:target="_blank"} - "Property Rights and Political Authority." (Youtube Channel interview)
+[Think Phil](https://www.youtube.com/watch?v=GVO2ZY6TqNw&ab_channel=ThinkPhil){:target="_blank"} - "Property Rights and Political Authority." (YouTube Channel interview)
 
-[Give Them an Argument](https://youtu.be/gX6CJnEZZ-A?t=2461){:target="_blank"} - "Season 3, Episode 40: Amazon Labor Victory + Community as a Socialist Value (ft. Jesse Spafford)." (Youtube channel interview)
+[Give Them an Argument](https://youtu.be/gX6CJnEZZ-A?t=2461){:target="_blank"} - "Season 3, Episode 40: Amazon Labor Victory + Community as a Socialist Value (ft. Jesse Spafford)." (YouTube channel interview)
 
 [The Ben Burgis Call-In Show](https://www.callin.com/episode/episode-40-libertarian-property-rights-XtwLmWtkHf){:target="_blank"} - "Episode 40: Libertarian Property-Rights Arguments Fall Apart (ft. Jesse Spafford)." (call-in show interview)
 
