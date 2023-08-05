@@ -34,7 +34,7 @@ Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and
 
 ## Book
 
-_[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org/us/universitypress/subjects/philosophy/political-philosophy/social-anarchism-and-rejection-moral-tyranny?format=HB&isbn=9781009375443{:target="_blank"})_. (2023) Cambridge: Cambridge University Press.
+_[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org/us/universitypress/subjects/philosophy/political-philosophy/social-anarchism-and-rejection-moral-tyranny?format=HB&isbn=9781009375443{:target="_blank"})_. (2023) Cambridge: Cambridge University Press. Open access.
 
 ## Peer Reviewed Journal Articles
 
