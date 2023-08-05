@@ -13,6 +13,15 @@ layout: page
   gtag('config', 'G-EX32E7FD6Z');
 </script>
 
+## Employment
+
+**The Victoria University of Wellington**
+Lecturer, 2023 - present.
+
+**Project REAL** - Trinity College Dublin, September 2020-2023
+
+REAL is a five-year [research project](https://www.realresearch.eu/) headed by Adina Preda and funded by a European Research Council Consolidator grant. As a Research Fellow, I produce research that supports the project's mission to reconcile theories of rights and egalitarian theories of distributive justice.
+
 ## Education
 
 **PhD** – The Graduate Center, CUNY, Philosophy, June 2020
@@ -23,15 +32,9 @@ Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and
 
 **BA** – Pomona College, Philosophy, May 2012
 
-## Postdoctoral Positions
-
-**Project REAL** - Trinity College Dublin, September 2020-present
-
-REAL is a five-year [research project](https://www.realresearch.eu/) headed by Adina Preda and funded by a European Research Council Consolidator grant. As a Research Fellow, I produce research that supports the project's mission to reconcile theories of rights and egalitarian theories of distributive justice.
-
 ## Book
 
-_Social Anarchism and the Rejection of Moral Tyranny_, under contract with Cambridge University Press.
+_Social Anarchism and the Rejection of Moral Tyranny_. (2023) Cambridge: Cambridge University Press.
 
 ## Peer Reviewed Journal Articles
 
@@ -56,6 +59,9 @@ _Social Anarchism and the Rejection of Moral Tyranny_, under contract with Cambr
 "[Book Review of Gerald Lang's _Strokes of Luck: A Study in Moral and Political Philosophy_](files/Lang.pdf){:target="_blank"}." (2023) _Ethics_, 133(3):429-34.
 
 ## Honors and Awards
+
+**Hayek Fund for Scholars** (2020,2021) 
+A total of $1,700 in grant funding awarded to provide dissemination support for multiple research projects.A total of $1,700 in grant funding awarded to provide dissemination support for multiple research projects.
 
 **Mellon/ACLS Dissertation Completion Fellowship** (2019–2020)  
 A one-year fellowship awarded to 67 fellows (out of over 1,000 applicants) to support them as they complete their dissertation.
@@ -90,17 +96,25 @@ Recognizes a Pomona College graduating senior who exhibits special talent in the
 
 ## Teaching Experience
 
+**Political Philosophy** (PHIL449)  
+_Course Instructor - Victoria University of Wellington_  
+Undergraduate course averaging 20 students per section. Winter 2023 (1 section).
+
+**Minds, Brains, and Persons** (PHIL104)  
+_Course Co-Instructor - Victoria University of Wellington_  
+Undergraduate course averaging 250 students per section. Winter 2023 (1 section).
+
 **Business Ethics**  
-_Course Instructor - Brooklyn College, 2017–2018_  
+_Course Instructor - Brooklyn College_
 Undergraduate course averaging 35 students per section. Fall 2017 (1 section), Spring 2018 (1 section).
 
 **Introduction to the Problems of Philosophy**  
-_Course Instructor - Brooklyn College, 2015–2017_  
+_Course Instructor - Brooklyn College_ 
 Undergraduate course averaging 35 students per section. Fall 2015 (1 section), Spring 2016 (1 section), Fall 2016 (1 section), and Spring 2017 (1 section).
 
 **Critical Theories and Politics**  
-_Guest Lecturer - The Dalton School, 2017–2018_  
-Led small group discussions on libertarian views of initial appropriation and anarchist strategies for social change.
+_Guest Lecturer - The Dalton School_  
+Led small group discussions on libertarian views of initial appropriation and anarchist strategies for social change. Fall 2017.
 
 **Writing Across the Curriculum**
 _WAC Fellow - Brooklyn College, 2018-2019_
