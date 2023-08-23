@@ -13,9 +13,7 @@ layout: page
   gtag('config', 'G-EX32E7FD6Z');
 </script>
 
-I have designed two introductory philosophy courses and taught six sections of undergraduates at Brooklyn College. This has given me the opportunity to work with a diverse group of traditional and non-traditional college students coming from a wide variety of backgrounds. I have also worked with high school seniors at the Dalton School, where I planned and led small group discussions on various topics in political philosophy.
-
-When it comes to teaching, I am interested in developing novel and effective teaching practices that also reflect egalitarian and anti-authoritarian principles. For example, I have regularly included in my syllabi a "democracy in the classroom" policy giving students the power to democratically shape all aspects of the curriculum (excluding how grades are assigned).
+When it comes to teaching, I am interested in developing engaging, creative, and effective pedagogical practices that also reflect egalitarian and anti-authoritarian principles. I have provided below some of the materials that I have produced as well as a list of the courses I have taught along with the syllabi for those courses.
 
 I have also received training in the pedagocial practices associated with the [Writing Across the Curriculum](https://www.jstor.org/stable/377412?seq=1#page_scan_tab_contents){:target="_blank"} movement.
 
