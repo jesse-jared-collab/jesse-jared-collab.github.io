@@ -16,13 +16,17 @@ layout: page
 When it comes to teaching, I am interested in developing engaging, creative, and effective pedagogical practices that also reflect egalitarian and anti-authoritarian principles. Below I provide some of the materials that I use in my classes as well as a list of the courses I have taught and the syllabi for those courses.
 
 ## Resources
+I sometimes have students write four-sentence papers. [Here](/files/FourSentence.pdf){:target="_blank"} is my handout introducing this assignment.
 
+ [Here](/files/PaperWriting.pdf){:target="_blank"} is my more general guide to writing critical philosophy papers.
 
 ## Courses Taught and Developed
 
 **Victoria University of Wellington**
 
 PHIL449 Political Philosophy (2023). [Syllabus](/files/449Syllabus.pdf){:target="_blank"}.
+
+PHIL104 Minds, Brains, and Persons (co-taught with Chloe Wall 2023). [Reading List](/files/104Readings.pdf){:target="_blank"}.
 
 **Brooklyn College**
 
