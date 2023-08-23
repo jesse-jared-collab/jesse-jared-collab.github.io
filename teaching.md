@@ -16,6 +16,7 @@ layout: page
 When it comes to teaching, I am interested in developing engaging, creative, and effective pedagogical practices that also reflect egalitarian and anti-authoritarian principles. Below I provide some of the materials that I use in my classes as well as a list of the courses I have taught and the syllabi for those courses.
 
 ## Resources
+
 I sometimes have students write four-sentence papers. [Here](/files/FourSentence.pdf){:target="_blank"} is my handout introducing this assignment.
 
  [Here](/files/PaperWriting.pdf){:target="_blank"} is my more general guide to writing critical philosophy papers.
@@ -34,4 +35,6 @@ Introduction to the Problems of Philosophy (2015, 2016, 2017). [Syllabus](/files
 
 Business Ethics (2017, 2018). [Syllabus](/files/Business%20Ethics%20Syllabus.pdf){:target="_blank"}.
 
-I have also received training in the pedagocial practices associated with the [Writing Across the Curriculum](https://www.jstor.org/stable/377412?seq=1#page_scan_tab_contents){:target="_blank"} movement.
+## Pedagogy
+
+I have received training in the pedagocial practices associated with the [Writing Across the Curriculum](https://www.jstor.org/stable/377412?seq=1#page_scan_tab_contents){:target="_blank"} movement.
