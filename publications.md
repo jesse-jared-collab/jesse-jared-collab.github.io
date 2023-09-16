@@ -22,6 +22,11 @@ I have a [forthcoming open access book](https://www.cambridge.org/us/universityp
 
 ## Journal Articles
 
+"When 'Enough and as Good' Is Not Good Enough." (forthcoming) _Res Publica_.
+
+Under what circumstances can people convert natural resources into private property? John Locke famously answered this question by positing what has become known as the Lockean proviso: a person has the power to unilaterally appropriate natural resources “at least where there is enough and as good left in common for others.” This Lockean proviso has been widely embraced by right-libertarians who maintain that a relevant act appropriates only if others are not left worse off. However, this proviso is multiply ambiguous with there being various ways of specifying its distinct elements. Daniel Attas has argued that all proposed specifications render the proviso either implausible or unsatisfied. However, there are three seemingly plausible specifications that he either fails to consider or does not adequately address. This paper attempts to show that these specifications are either unacceptable, go unsatisfied, or fail to support right-libertarianism.
+
+
 "[Self-Ownership and the Duty to Assist](https://onlinelibrary.wiley.com/doi/10.1111/japp.12595){:target="_blank"}." (2022) _Journal of Applied Philosophy_ 39(5): 857-69.
 
 Libertarians are attracted to the self-ownership thesis because it seems to satisfy four important theoretical _desiderata_. First, the thesis treats all persons equally by assigning them the same initial set of rights. Second, the thesis gives people the strongest set of ownership rights possible. Third, it assigns persons a determinate set of rights. And, finally, it grounds the libertarian rejection of a duty to assist, benefit, or rescue others. This paper argues that these four _desiderata_ cannot be simultaneously satisfied. Specifically, it contends that the first three _desiderata_ can be jointly satisfied only if the thesis merely gives people the right to include their owned bodies in various actions (as opposed to a stronger version of the thesis that gives people permissions to do things with their bodies). However, such an interpretation of the thesis will not satisfy the final _desideratum_. Thus, libertarians face a tetralemma when defining the self-ownership thesis.
