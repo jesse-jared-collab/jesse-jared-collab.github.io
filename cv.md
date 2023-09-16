@@ -38,6 +38,8 @@ _[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org
 
 ## Peer Reviewed Journal Articles
 
+"When 'Enough and as Good' Is Not Good Enough." (forthcoming) _Res Publica_.
+
 "[Self-Ownership and the Duty to Assist](https://onlinelibrary.wiley.com/doi/10.1111/japp.12595){:target="_blank"}." (2022) _Journal of Applied Philosophy_ 39(5): 857-69.
 
 "[Luck Egalitarianism Without Moral Tyranny](https://link.springer.com/article/10.1007%2Fs11098-021-01667-4){:target="_blank"}." (2022) _Philosophical Studies_ 179(2): 469-93.
