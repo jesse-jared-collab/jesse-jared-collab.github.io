@@ -62,7 +62,7 @@ _[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org
 
 ## Honors and Awards
 
-**Hayek Fund for Scholars** (2020,2021) 
+**Hayek Fund for Scholars** (2020, 2021) 
 A total of $1,700 in grant funding awarded to provide dissemination support for multiple research projects.A total of $1,700 in grant funding awarded to provide dissemination support for multiple research projects.
 
 **Mellon/ACLS Dissertation Completion Fellowship** (2019–2020)  
