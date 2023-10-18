@@ -22,7 +22,7 @@ I have a [forthcoming open access book](https://www.cambridge.org/us/universityp
 
 ## Journal Articles
 
-"When 'Enough and as Good' Is Not Good Enough." (forthcoming) _Res Publica_.
+"[When 'Enough and as Good' Is Not Good Enough](https://link.springer.com/article/10.1007/s11158-023-09633-z){:target="_blank"}." (forthcoming) _Res Publica_.
 
 Under what circumstances can people convert natural resources into private property? John Locke famously answered this question by positing what has become known as the Lockean proviso: a person has the power to unilaterally appropriate natural resources “at least where there is enough and as good left in common for others.” This Lockean proviso has been widely embraced by right-libertarians who maintain that a relevant act appropriates only if others are not left worse off. However, this proviso is multiply ambiguous with there being various ways of specifying its distinct elements. Daniel Attas has argued that all proposed specifications render the proviso either implausible or unsatisfied. However, there are three seemingly plausible specifications that he either fails to consider or does not adequately address. This paper attempts to show that these specifications are either unacceptable, go unsatisfied, or fail to support right-libertarianism.
 
