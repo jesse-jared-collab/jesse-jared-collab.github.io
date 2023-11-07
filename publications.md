@@ -13,7 +13,7 @@ layout: page
   gtag('config', 'G-EX32E7FD6Z');
 </script>
 
-My research focuses on debates between libertarians, socialists, and anarchists over the moral status of the market and the state. I'm also intereste in rights, consent, philosophical anarchism, luck egalitarianism, self-ownership, private property, initial appropriation, and Analytical Marxism.  My long-term project is to provide a normative defense of a heterodox variety of anarchism.
+My research focuses on debates between libertarians, socialists, and anarchists over the moral status of the market and the state. I'm also interested in rights, consent, philosophical anarchism, luck egalitarianism, self-ownership, private property, initial appropriation, and Analytical Marxism.  My long-term project is to provide a normative defense of a heterodox variety of anarchism.
 
 ## My Book
 
