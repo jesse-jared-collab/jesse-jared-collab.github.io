@@ -166,6 +166,10 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Public Facing Work
 
+**Fifteen Eighty Four** - "[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridgeblog.org/2023/11/social-anarchism-and-the-rejection-of-moral-tyranny/){:target="_blank"}"
+
+**The Page 99 Test** - "[Jesse Spafford's "Social Anarchism and the Rejection of Moral Tyranny](https://page99test.blogspot.com/2023/11/jesse-spaffords-social-anarchism-and.html){:target="_blank"}"
+
 **Think Phil** - "[Property Rights and Political Authority](https://www.youtube.com/watch?v=GVO2ZY6TqNw&ab_channel=ThinkPhil){:target="_blank"}." (YouTube Channel interview)
 
 **Give Them an Argument** - "[Season 3, Episode 40: Amazon Labor Victory + Community as a Socialist Value (ft. Jesse Spafford)](https://youtu.be/gX6CJnEZZ-A?t=2461){:target="_blank"}." (YouTube channel interview)
