@@ -13,6 +13,12 @@ layout: page
   gtag('config', 'G-EX32E7FD6Z');
 </script>
 
+## Public-Facing Presentations of My Book
+
+[_Fifteen Eighty Four_](https://www.cambridgeblog.org/2023/11/social-anarchism-and-the-rejection-of-moral-tyranny/){:target="_blank"} - "Social Anarchism and the Rejection of Moral Tyranny"
+
+[The Page 99 Test](https://page99test.blogspot.com/2023/11/jesse-spaffords-social-anarchism-and.html){:target="_blank"} - "Jesse Spafford's "Social Anarchism and the Rejection of Moral Tyranny"
+
 ## Interviews
 [Think Phil](https://www.youtube.com/watch?v=GVO2ZY6TqNw&ab_channel=ThinkPhil){:target="_blank"} - "Property Rights and Political Authority." (YouTube Channel interview)
 
