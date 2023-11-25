@@ -108,12 +108,10 @@ Undergraduate course averaging 250 students per section. Winter 2023 (1 section)
 
 **Business Ethics**  
 _Course Instructor - Brooklyn College_
-
 Undergraduate course averaging 35 students per section. Fall 2017 (1 section), Spring 2018 (1 section).
 
 **Introduction to the Problems of Philosophy**  
 _Course Instructor - Brooklyn College_ 
-
 Undergraduate course averaging 35 students per section. Fall 2015 (1 section), Spring 2016 (1 section), Fall 2016 (1 section), and Spring 2017 (1 section).
 
 **Critical Theories and Politics**  
