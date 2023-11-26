@@ -2,6 +2,7 @@
 title: Research
 permalink: /research
 layout: page
+image: bookcover.png
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-EX32E7FD6Z"></script>
