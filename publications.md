@@ -2,7 +2,6 @@
 title: Research
 permalink: /research
 layout: page
-image: bookcover.png
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-EX32E7FD6Z"></script>
@@ -19,6 +18,8 @@ My research focuses on debates between libertarians, socialists, and anarchists 
 ## My Book
 
 My book, [_Social Anarchism and the Rejection of Moral Tyranny_](https://www.cambridge.org/core/books/social-anarchism-and-the-rejection-of-moral-tyranny/6B0E38604D6CE88BCBF699D7D2805E89){:target="_blank"}, is an extended elaboration and defense of the egalitarian anarchist moral position. It's open access, so you can read the whole thing for free by following the previous link! (If you want a physical copy, you can get a 20% discount by entering the code SATRMT23 at checkout).
+
+{% asset 'bookcover.png' %}
 
 ## Journal Articles
 
