@@ -3,15 +3,6 @@ title: Teaching
 permalink: /teaching
 layout: page
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-EX32E7FD6Z"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-EX32E7FD6Z');
-</script>
 
 I am interested in developing engaging, creative, and effective pedagogical practices that are also informed by egalitarian and anti-authoritarian principles. Below I provide some of the materials that I use in my classes, a list of the courses I have taught, and the syllabi for those courses.
 

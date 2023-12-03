@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   and anarchists over the moral status of the market and the state.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jessespafford.com" # the base hostname & protocol for your site, e.g. http://example.com
-google-analytics-id: UA-15837198-1
+google-analytics-id: G-EX32E7FD6Z
 navbar:
   - name: Research
     url: /research
