@@ -32,6 +32,10 @@ layout: page
 
 ## Public Engagement with My Research
 
+**Discussions of _Social Anarchism and the Rejection of Moral Tyranny_** ([original](https://www.cambridge.org/core/books/social-anarchism-and-the-rejection-of-moral-tyranny/6B0E38604D6CE88BCBF699D7D2805E89){:target="_blank"})**:**
+
+[Springtime of Nations](https://www.youtube.com/watch?v=J6lq6sp_Z4o&ab_channel=SpringtimeOfNations){:target="_blank"} - "The UnAnarchist Anarchism of Jesse Spafford: A Book Review." (YouTube Essay)
+
 **Discussions of "Social Anarchism and the Rejection of Private Property"** ([original](https://jessespafford.com/files/SpaffordSocialAnarchism.pdf){:target="_blank"})**:**
 
 [Jacobin](https://jacobinmag.com/2022/04/us-tax-day-filing-complicated-returns){:target="_blank"} - "Doing Your Taxes Doesn't Have to Be This Miserable," by Ben Burgis.
