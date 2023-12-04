@@ -166,6 +166,8 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Public Facing Work
 
+**What To Do About Now?** - "[Javier Milei's Anarcho-Capitalism is Incoherent](https://www.whattodoaboutnow.com/post/the-incoherence-of-anarcho-capitalism){:target="_blank"}"
+
 **Fifteen Eighty Four** - "[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridgeblog.org/2023/11/social-anarchism-and-the-rejection-of-moral-tyranny/){:target="_blank"}"
 
 **The Page 99 Test** - "[Jesse Spafford's "Social Anarchism and the Rejection of Moral Tyranny](https://page99test.blogspot.com/2023/11/jesse-spaffords-social-anarchism-and.html){:target="_blank"}"
