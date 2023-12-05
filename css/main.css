@@ -101,6 +101,10 @@ h6 {
   font-weight: 500;
 }
 
+p {
+  position: relative;
+}
+
 a,
 a:visited {
   color: rgb(163, 82, 84);
@@ -213,6 +217,21 @@ h6 {
 
   .home-layout-figure {
     width: 22rem;
+  }
+}
+
+.book-cover-image {
+  display: none;
+  position: absolute;
+  width: 185px;
+  left: 100%;
+  top: -72px;
+  margin-left: 1em;
+}
+
+@media (min-width: 824px) {
+  .book-cover-image {
+    display: block;
   }
 }
 
