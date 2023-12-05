@@ -221,17 +221,17 @@ h6 {
 }
 
 .book-cover-image {
-  display: block;
-  margin-top: 1em;
+  display: none;
+  position: absolute;
   width: 185px;
+  left: 100%;
+  top: -72px;
+  margin-left: 1em;
 }
 
 @media (min-width: 824px) {
   .book-cover-image {
-    position: absolute;
-    left: 100%;
-    top: -70px;
-    margin-left: 1em;
+    display: block;
   }
 }
 
