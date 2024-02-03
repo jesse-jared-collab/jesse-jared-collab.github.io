@@ -14,6 +14,8 @@ layout: page
 [The Page 99 Test](https://page99test.blogspot.com/2023/11/jesse-spaffords-social-anarchism-and.html){:target="_blank"} - "Jesse Spafford's "Social Anarchism and the Rejection of Moral Tyranny"
 
 ## Interviews
+[Non Serviam Media](https://www.youtube.com/watch?v=l9irFVfyfSQ&ab_channel=NonServiamMedia) - "Libertarian Means Socialist with Jesse Spafford." (podcast interview)
+
 [Think Phil](https://www.youtube.com/watch?v=GVO2ZY6TqNw&ab_channel=ThinkPhil){:target="_blank"} - "Property Rights and Political Authority." (YouTube Channel interview)
 
 [Give Them an Argument](https://youtu.be/gX6CJnEZZ-A?t=2461){:target="_blank"} - "Season 3, Episode 40: Amazon Labor Victory + Community as a Socialist Value (ft. Jesse Spafford)." (YouTube channel interview)
