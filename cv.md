@@ -157,6 +157,8 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Public Facing Work
 
+**Non Serviam Media** - ["Libertarian Means Socialist with Jesse Spafford."](https://www.youtube.com/watch?v=l9irFVfyfSQ&ab_channel=NonServiamMedia){:target="_blank"}
+
 **What To Do About Now?** - "[Javier Milei's Anarcho-Capitalism is Incoherent](https://www.whattodoaboutnow.com/post/the-incoherence-of-anarcho-capitalism){:target="_blank"}"
 
 **Fifteen Eighty Four** - "[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridgeblog.org/2023/11/social-anarchism-and-the-rejection-of-moral-tyranny/){:target="_blank"}"
