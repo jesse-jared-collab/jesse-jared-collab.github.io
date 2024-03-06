@@ -6,7 +6,7 @@ layout: page
 
 ## Employment
 
-**The Victoria University of Wellington**
+**The Victoria University of Wellington**  
 Lecturer, 2023 - present.
 
 **Project REAL** - Trinity College Dublin, September 2020-2023
