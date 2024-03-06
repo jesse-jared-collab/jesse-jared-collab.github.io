@@ -113,6 +113,12 @@ Led small group discussions on libertarian views of initial appropriation and an
 _WAC Fellow - Brooklyn College, 2018-2019_
 Worked with faculty from various disciplines to help them integrate creative and research-supported writing assignments into their curricula.
 
+## Research Supervision
+
+**Master's Theses**
+
+S.R. - "Enoug is Enough: A Moral Argument for Socialism"
+
 ## Presentations
 
 "Author Meets Critics: _Social Anarchism and the Rejection of Moral Tyranny_," presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2023.
