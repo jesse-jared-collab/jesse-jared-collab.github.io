@@ -117,7 +117,7 @@ Worked with faculty from various disciplines to help them integrate creative and
 
 **Master's Theses**
 
-S.R. - "Enoug is Enough: A Moral Argument for Socialism"
+S.R. - "Enough is Enough: A Moral Argument for Socialism"
 
 ## Presentations
 
