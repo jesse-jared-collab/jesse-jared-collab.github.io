@@ -98,11 +98,11 @@ _Course Co-Instructor - Victoria University of Wellington_
 Undergraduate course averaging 250 students per section. Winter 2023 (1 section).
 
 **Business Ethics**  
-_Course Instructor - Brooklyn College_
+_Course Instructor - Brooklyn College_  
 Undergraduate course averaging 35 students per section. Fall 2017 (1 section), Spring 2018 (1 section).
 
 **Introduction to the Problems of Philosophy**  
-_Course Instructor - Brooklyn College_ 
+_Course Instructor - Brooklyn College_  
 Undergraduate course averaging 35 students per section. Fall 2015 (1 section), Spring 2016 (1 section), Fall 2016 (1 section), and Spring 2017 (1 section).
 
 **Critical Theories and Politics**  
@@ -110,7 +110,7 @@ _Guest Lecturer - The Dalton School_
 Led small group discussions on libertarian views of initial appropriation and anarchist strategies for social change. Fall 2017.
 
 **Writing Across the Curriculum**
-_WAC Fellow - Brooklyn College, 2018-2019_
+_WAC Fellow - Brooklyn College, 2018-2019_  
 Worked with faculty from various disciplines to help them integrate creative and research-supported writing assignments into their curricula.
 
 ## Research Supervision
