@@ -163,6 +163,8 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Public Facing Work
 
+**Young Marxists of Vietnam** - ["Community as Socialist Value"](https://youtu.be/0xA8QBdpPb8?si=typ5HHmtR0hDwWsI&t=197){:target="_blank"}
+
 **Non Serviam Media** - ["Libertarian Means Socialist with Jesse Spafford."](https://www.youtube.com/watch?v=l9irFVfyfSQ&ab_channel=NonServiamMedia){:target="_blank"}
 
 **What To Do About Now?** - "[Javier Milei's Anarcho-Capitalism is Incoherent](https://www.whattodoaboutnow.com/post/the-incoherence-of-anarcho-capitalism){:target="_blank"}"
