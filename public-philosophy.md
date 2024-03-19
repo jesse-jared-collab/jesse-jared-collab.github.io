@@ -13,7 +13,10 @@ layout: page
 
 [The Page 99 Test](https://page99test.blogspot.com/2023/11/jesse-spaffords-social-anarchism-and.html){:target="_blank"} - "Jesse Spafford's "Social Anarchism and the Rejection of Moral Tyranny"
 
-## Interviews
+## Interviews and Talks
+
+[Young Marxists of Vietnam](https://youtu.be/0xA8QBdpPb8?si=typ5HHmtR0hDwWsI&t=197){:target="_blank"} - "Community as Socialist Value." (public-facing talk)
+
 [Non Serviam Media](https://www.youtube.com/watch?v=l9irFVfyfSQ&ab_channel=NonServiamMedia){:target="_blank"} - "Libertarian Means Socialist with Jesse Spafford." (podcast interview)
 
 [Think Phil](https://www.youtube.com/watch?v=GVO2ZY6TqNw&ab_channel=ThinkPhil){:target="_blank"} - "Property Rights and Political Authority." (YouTube Channel interview)
