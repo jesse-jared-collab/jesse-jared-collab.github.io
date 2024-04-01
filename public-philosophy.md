@@ -31,6 +31,8 @@ layout: page
 
 **Discussions of _Social Anarchism and the Rejection of Moral Tyranny_** ([original](https://www.cambridge.org/core/books/social-anarchism-and-the-rejection-of-moral-tyranny/6B0E38604D6CE88BCBF699D7D2805E89){:target="_blank"})**:**
 
+[_Reason_](https://reason.com/2024/03/31/a-social-anarchist-issues-a-challenge/){:target="_blank"} - "A Social Anarchist Issues a Challenge," by Roderick Long.
+
 [Springtime of Nations](https://www.youtube.com/watch?v=J6lq6sp_Z4o&ab_channel=SpringtimeOfNations){:target="_blank"} - "The UnAnarchist Anarchism of Jesse Spafford: A Book Review." (YouTube Essay)
 
 **Discussions of "Social Anarchism and the Rejection of Private Property"** ([original](https://jessespafford.com/files/SpaffordSocialAnarchism.pdf){:target="_blank"})**:**
