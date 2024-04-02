@@ -27,7 +27,8 @@ Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and
 
 _[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org/core/books/social-anarchism-and-the-rejection-of-moral-tyranny/6B0E38604D6CE88BCBF699D7D2805E89){:target="_blank"}_. (2023) Cambridge: Cambridge University Press. Open access.
 
-**Reviews of my Book**
+**Reviews of the Book**  
+
 [_Mind_](https://academic.oup.com/mind/advance-article-abstract/doi/10.1093/mind/fzae014/7638430){:target="_blank"} (Nikhil Venkatesh)
 
 [_Reason_](https://reason.com/2024/03/31/a-social-anarchist-issues-a-challenge/){:target="_blank"} (Roderick Long)
