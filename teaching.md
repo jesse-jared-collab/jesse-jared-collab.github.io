@@ -16,6 +16,8 @@ I sometimes have students write four-sentence papers. [Here](/files/FourSentence
 
 **Victoria University of Wellington**
 
+PHIL202 Ethics (2024).
+
 PHIL449 Political Philosophy (2023).
 [Syllabus](/files/449Syllabus.pdf){:target="_blank"}.
 
