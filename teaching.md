@@ -8,7 +8,7 @@ I am interested in developing engaging, creative, and effective pedagogical prac
 
 ## Resources
 
-I sometimes have students write four-sentence papers. [Here](/files/FourSentence.pdf){:target="_blank"} is my handout introducing this assignment.
+I sometimes have students write four-sentence papers. [Here](/files/FourSentence.pdf){:target="_blank"} is my handout introducing this assignment. I have also experiemented with assessing this assignment using the [levels system](/files/LevelsSystem.pdf){:target="_blank"}.
 
  [Here](/files/PaperWriting.pdf){:target="_blank"} is my more general guide to writing critical philosophy papers.
 
@@ -17,6 +17,7 @@ I sometimes have students write four-sentence papers. [Here](/files/FourSentence
 **Victoria University of Wellington**
 
 PHIL202 Ethics (2024).
+[Syllabus](/files/202Syllabus.pdf){:target="_blank"}.
 
 PHIL449 Political Philosophy (2023).
 [Syllabus](/files/449Syllabus.pdf){:target="_blank"}.
