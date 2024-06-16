@@ -95,6 +95,10 @@ Recognizes a Pomona College graduating senior who exhibits special talent in the
 
 ## Teaching Experience
 
+**Ethics** (PHIL202)
+_Course Instructor - Victoria University of Wellington_
+Undergraduate course averaging 85 students per section. Fall 2024 (1 Section).
+
 **Political Philosophy** (PHIL449)  
 _Course Instructor - Victoria University of Wellington_  
 Undergraduate course averaging 20 students per section. Winter 2023 (1 section).
