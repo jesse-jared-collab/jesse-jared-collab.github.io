@@ -127,9 +127,9 @@ Worked with faculty from various disciplines to help them integrate creative and
 
 **Master's Theses**
 
-R.W. - "Reconciling Liberty with Equity: Exploring Wealth Redistribution within a Libertarian Framework" (2024)
+R. W. - "Reconciling Liberty with Equity: Exploring Wealth Redistribution within a Libertarian Framework" (2024)
 
-S.R. - "Enough is Enough: A Moral Argument for Socialism" (2024)
+S. R. - "Enough is Enough: A Moral Argument for Socialism" (2024)
 
 ## Presentations
 
