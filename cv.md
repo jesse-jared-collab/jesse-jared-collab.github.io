@@ -175,7 +175,7 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Public Facing Work
 
-**_The Anarchist Review of Books_** ["Because All We Have is Each Other"](files/ARB.pdf){:target="_blank"}
+**_The Anarchist Review of Books_** ["Because All We Have Is Each Other"](files/ARB.pdf){:target="_blank"}
 
 **Young Marxists of Vietnam** - ["Community as Socialist Value"](https://youtu.be/0xA8QBdpPb8?si=typ5HHmtR0hDwWsI&t=197){:target="_blank"}
 
