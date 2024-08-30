@@ -11,6 +11,8 @@ layout: page
 
 [What To Do About Now?](https://www.whattodoaboutnow.com/post/the-incoherence-of-anarcho-capitalism){:target="_blank"} - "Javier Milei's Anarcho-Capitalism is Incoherent"
 
+[_The Anarchist Review of Books_](files/ARB.pdf){:target="_blank"} - "Because All We Have is Each Other"
+
 [The Page 99 Test](https://page99test.blogspot.com/2023/11/jesse-spaffords-social-anarchism-and.html){:target="_blank"} - "Jesse Spafford's "Social Anarchism and the Rejection of Moral Tyranny"
 
 ## Interviews and Talks
