@@ -16,6 +16,9 @@ I sometimes have students write four-sentence papers. [Here](/files/FourSentence
 
 **Victoria University of Wellington**
 
+PHPE401 Philosophy, Politics and Economics (co-taught with Adrian Slack 2024)
+[Syllabus](/files/401Syllabus.pdf){:target="_blank"}.
+
 PHIL105 The Big Questions (co-taught with Richard Joyce 2024)
 [Reading List](/files/105Readings.pdf){:target="_blank"}
 
