@@ -16,6 +16,9 @@ I sometimes have students write four-sentence papers. [Here](/files/FourSentence
 
 **Victoria University of Wellington**
 
+PHIL105 The Big Questions (co-taught with Richard Joyce 2024)
+[Reading List](/files/105Readings.pdf){:target="_blank"}
+
 PHIL202 Ethics (2024).
 [Syllabus](/files/202Syllabus.pdf){:target="_blank"}.
 
