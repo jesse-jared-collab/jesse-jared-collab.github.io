@@ -8,6 +8,7 @@ layout: page
 
 **The Victoria University of Wellington**  
 Lecturer, 2023 - present.
+Programme Director, Master's in Philosophy, Politics and Economics (MPPE), 2024 - present.
 
 **Project REAL** - Trinity College Dublin, September 2020-2023
 
@@ -35,7 +36,7 @@ _[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org
 
 ## Peer Reviewed Journal Articles
 
-"[When 'Enough and as Good' Is Not Good Enough](https://link.springer.com/article/10.1007/s11158-023-09633-z){:target="_blank"}." (forthcoming) _Res Publica_.
+"[When 'Enough and as Good' Is Not Good Enough](https://link.springer.com/article/10.1007/s11158-023-09633-z){:target="_blank"}." (2024) _Res Publica_ 30(3): 469-85.
 
 "[Self-Ownership and the Duty to Assist](https://onlinelibrary.wiley.com/doi/10.1111/japp.12595){:target="_blank"}." (2022) _Journal of Applied Philosophy_ 39(5): 857-69.
 
@@ -95,13 +96,21 @@ Recognizes a Pomona College graduating senior who exhibits special talent in the
 
 ## Teaching Experience
 
+**Philosophy, Politics and Economics** (PHPE401)
+_Course Co-Instructor - Victoria University of Wellington_
+Master's course averaging 14 students per section. Winter 2024 (1 Section).
+
+**The Big Questions** (PHIL105)
+_Course Co-Instructor - Victoria University of Wellington_  
+Undergraduate course averaging 125 students per section. Winter 2024 (2 sections).
+
 **Ethics** (PHIL202)
 _Course Instructor - Victoria University of Wellington_
 Undergraduate course averaging 85 students per section. Fall 2024 (1 Section).
 
 **Political Philosophy** (PHIL449)  
 _Course Instructor - Victoria University of Wellington_  
-Undergraduate course averaging 20 students per section. Winter 2023 (1 section).
+Honours/Master's course averaging 20 students per section. Winter 2023 (1 section).
 
 **Minds, Brains, and Persons** (PHIL104)  
 _Course Co-Instructor - Victoria University of Wellington_  
