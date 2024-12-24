@@ -144,7 +144,7 @@ S. R. - "Enough is Enough: A Moral Argument for Socialism" (2024)
 
 "Author Meets Critics: _Social Anarchism and the Rejection of Moral Tyranny_," presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2023.
 
-"Incas, Aliens, and Anarchists," presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2023; the Victoria University of Wellington Colloquium, 2023; the Tokyo Forum for Analytic Philosophy (2023); and the American Philosophical Association Pacific Division Conference, 2023 (poster).
+"Incas, Aliens, and Anarchists," presented at the Center for Global Ethics and Politics, 2024; the Philosophy, Politics, & Economics Society Annual Meeting, 2023; the Victoria University of Wellington Colloquium, 2023; the Tokyo Forum for Analytic Philosophy, 2023; and the American Philosophical Association Pacific Division Conference, 2023 (poster).
 
 "Self-Ownership and the Duty to Assist," presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2022 and Rocky Mountain Ethics Congress, 2022 (poster).
 
