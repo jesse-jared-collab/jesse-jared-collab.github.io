@@ -12,7 +12,7 @@ Programme Director, Master's in Philosophy, Politics and Economics (MPPE), 2024 
 
 **Project REAL** - Trinity College Dublin, September 2020-2023
 
-REAL is a five-year [research project](https://www.realresearch.eu/) headed by Adina Preda and funded by a European Research Council Consolidator grant. As a Research Fellow, I produce research that supports the project's mission to reconcile theories of rights and egalitarian theories of distributive justice.
+REAL was a five-year [research project](https://www.realresearch.eu/) headed by Adina Preda and funded by a European Research Council Consolidator grant. As a Research Fellow, I produced research that supported the project's mission to reconcile theories of rights and egalitarian theories of distributive justice.
 
 ## Education
 
@@ -34,7 +34,10 @@ _[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org
 
 [_Reason_](https://reason.com/2024/03/31/a-social-anarchist-issues-a-challenge/){:target="_blank"} (Roderick Long)
 
+
 ## Peer Reviewed Journal Articles
+
+"Rights Infringement, Compensation, and Luck Egalitarianism." (Forthcoming) _The Journal of Ethics and Social Philosophy_.
 
 "[When 'Enough and as Good' Is Not Good Enough](https://link.springer.com/article/10.1007/s11158-023-09633-z){:target="_blank"}." (2024) _Res Publica_ 30(3): 469-85.
 
@@ -57,42 +60,6 @@ _[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org
 ## Book Review
 
 "[Book Review of Gerald Lang's _Strokes of Luck: A Study in Moral and Political Philosophy_](files/Lang.pdf){:target="_blank"}." (2023) _Ethics_, 133(3):429-34.
-
-## Honors and Awards
-
-**Hayek Fund for Scholars** (2020, 2021) 
-A total of $1,700 in grant funding awarded to provide dissemination support for multiple research projects.A total of $1,700 in grant funding awarded to provide dissemination support for multiple research projects.
-
-**Mellon/ACLS Dissertation Completion Fellowship** (2019–2020)  
-A one-year fellowship awarded to 67 fellows (out of over 1,000 applicants) to support them as they complete their dissertation.
-
-**Humane Studies Fellowship** (declined)  
-A grant awarded to support scholarship on topics relating to classical liberalism and libertarianism. Declined because of a conflicting fellowship.
-
-**CUNY Dissertation Completion Fellowship** (declined)  
-A one-year fellowship awarded to select graduate students to support them as they complete their dissertation. Declined because of a conflicting fellowship.
-
-**The Center for Ethics & Global Politics Graduate Fellowship** (2018–2020)  
-Awarded to select graduate students who are able to represent the Center and who are doing notable work in political philosophy.
-
-**Adam Smith Fellowship** (2018–2019)  
-A grant awarded to graduate students who participate in a program promoting engagement with classical liberal political economists.
-
-**Semi-Finalist, Center for Education and Ethics Essay Competition** (2018)  
-Awarded to the 10 best essays (out of over 60 submitted) addressing an important issue in educational policy and/or practice.
-
-**Graduate Student Stipend** (2018, 2016)  
-A small grant awarded to graduate students who have a presentation accepted at the American Philosophical Association’s Pacific Division Conference.
-
-**CUNY University Fellowship** (2014)  
-Supplemental grant awarded to select incoming students who demonstrate special philosophical potential.
-
-**CUNY Graduate Center Fellowship** (2014)  
-Five-year fellowship covering tuition, fees, and providing a bi-annual and monthly stipend.
-
-**W. T. Jones Prize in Philosophy** (2012)  
-Recognizes a Pomona College graduating senior who exhibits special talent in the pursuit of philosophy.
-
 
 ## Teaching Experience
 
@@ -142,9 +109,11 @@ S. R. - "Enough is Enough: A Moral Argument for Socialism" (2024)
 
 ## Presentations
 
-"Author Meets Critics: _Social Anarchism and the Rejection of Moral Tyranny_," presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2023.
+"Rights Infringement, Compensation, and Luck Egalitarianism," presetned at the VUW Philosophy Colloquium, 2024.
 
-"Incas, Aliens, and Anarchists," presented at the Center for Global Ethics and Politics, 2024; the Philosophy, Politics, & Economics Society Annual Meeting, 2023; the Victoria University of Wellington Colloquium, 2023; the Tokyo Forum for Analytic Philosophy, 2023; and the American Philosophical Association Pacific Division Conference, 2023 (poster).
+"Incas, Aliens, and Anarchists," presented at the Center for Global Ethics and Politics, 2024; the Philosophy, Politics, & Economics Society Annual Meeting, 2023; the VUW Philosophy Colloquium, 2023; the Tokyo Forum for Analytic Philosophy, 2023; and the American Philosophical Association Pacific Division Conference, 2023 (poster).
+
+"Author Meets Critics: _Social Anarchism and the Rejection of Moral Tyranny_," presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2023.
 
 "Self-Ownership and the Duty to Assist," presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2022 and Rocky Mountain Ethics Congress, 2022 (poster).
 
@@ -174,13 +143,19 @@ Mark Jensen, "Meta-obligations and the Disparate Power of Negative Objection and
 
 Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, and Reasonable Beneficence to All,” Rocky Mountain Ethics Congress, 2018. (Available [here](/files/Crummett%20and%20Swenson%20Comments.pdf){:target="_blank"}).
 
+
 ## Service
 
 **Reviewing** – I have reviewed papers for the _Australasian Journal of Philosophy_, _Economics and Philosophy_, the _European Journal of Political Theory_, the _Journal of Ethics and Social Philosophy_, the _Journal of Social Philosophy_, the _Journal of Value Inquiry_, _Philosophical Studies_, and _Law, Ethics and Philosophy_.
 
-**Peer Mentoring Program 2017-2019** – I mentored first-year PhD students to help them navigate graduate school and begin the process of professionalization.
+**Master of Philosophy, Politics and Economics Programme** (2024-present) I serve as the Director of the MPPE programme at Te Herenga Waka—Victoria University of Wellington.
+
+**Subjects, Qualifications, and Courses Project** (2024-present) - I represented the philosophy programme as part of a project to update the subjects, qualifications, and courses pages on the THW-VUW website.
+
+**Peer Mentoring Program** (2017-2019) – I mentored first-year PhD students to help them navigate graduate school and begin the process of professionalization.
 
 **Democratic Socialists of America Political Education Committee** – I developed and implemented a variety of educational programming introducing DSA members and non-members to socialist political philosophy.
+
 
 ## Public Facing Work
 
@@ -207,3 +182,39 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 **_The New Inquiry_** – “[Beyond Belief](https://thenewinquiry.com/beyond-belief/){:target="_blank"},” “[Just the Facts](https://thenewinquiry.com/just-the-facts/){:target="_blank"},” “[Dissatisfaction City](https://thenewinquiry.com/dissatisfaction-city/){:target="_blank"},” “[The Esoteric Whodunit](https://thenewinquiry.com/the-esoteric-whodunit/){:target="_blank"},” “[The Selfless Man](https://thenewinquiry.com/the-selfless-man/){:target="_blank"}.”
 
 **_Racism Review_** – “[White Supremacism as Meme: How Reddit is Breeding a New Generation of Violent Racism](http://www.racismreview.com/blog/2013/11/11/white-supremacism-meme-reddit-breeds-violent-racism/){:target="_blank"},” “[Dark Arts: Stormfront, Lacan, and White Supremacy](http://www.racismreview.com/blog/2012/12/11/stormfront-and-lacan/){:target="_blank"}.”
+
+
+## Honors and Awards
+
+**Hayek Fund for Scholars** (2020, 2021) 
+A total of $1,700 in grant funding awarded to provide dissemination support for multiple research projects.A total of $1,700 in grant funding awarded to provide dissemination support for multiple research projects.
+
+**Mellon/ACLS Dissertation Completion Fellowship** (2019–2020)  
+A one-year fellowship awarded to 67 fellows (out of over 1,000 applicants) to support them as they complete their dissertation.
+
+**Humane Studies Fellowship** (declined)  
+A grant awarded to support scholarship on topics relating to classical liberalism and libertarianism. Declined because of a conflicting fellowship.
+
+**CUNY Dissertation Completion Fellowship** (declined)  
+A one-year fellowship awarded to select graduate students to support them as they complete their dissertation. Declined because of a conflicting fellowship.
+
+**The Center for Ethics & Global Politics Graduate Fellowship** (2018–2020)  
+Awarded to select graduate students who are able to represent the Center and who are doing notable work in political philosophy.
+
+**Adam Smith Fellowship** (2018–2019)  
+A grant awarded to graduate students who participate in a program promoting engagement with classical liberal political economists.
+
+**Semi-Finalist, Center for Education and Ethics Essay Competition** (2018)  
+Awarded to the 10 best essays (out of over 60 submitted) addressing an important issue in educational policy and/or practice.
+
+**Graduate Student Stipend** (2018, 2016)  
+A small grant awarded to graduate students who have a presentation accepted at the American Philosophical Association’s Pacific Division Conference.
+
+**CUNY University Fellowship** (2014)  
+Supplemental grant awarded to select incoming students who demonstrate special philosophical potential.
+
+**CUNY Graduate Center Fellowship** (2014)  
+Five-year fellowship covering tuition, fees, and providing a bi-annual and monthly stipend.
+
+**W. T. Jones Prize in Philosophy** (2012)  
+Recognizes a Pomona College graduating senior who exhibits special talent in the pursuit of philosophy.
