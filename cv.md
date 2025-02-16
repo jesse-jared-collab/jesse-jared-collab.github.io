@@ -159,13 +159,13 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Public Facing Work
 
-**Wellington Socialist Society** ["Social Anarchism and the Rejection of Private Property"](https://thecommonweal.substack.com/p/social-anarchism-and-the-rejection){:target="_blank"}
+**Wellington Socialist Society** - ["Social Anarchism and the Rejection of Private Property"](https://thecommonweal.substack.com/p/social-anarchism-and-the-rejection){:target="_blank"}
 
-**_The Anarchist Review of Books_** ["Because All We Have Is Each Other"](files/ARB.pdf){:target="_blank"}
+**_The Anarchist Review of Books_** - ["Because All We Have Is Each Other"](files/ARB.pdf){:target="_blank"}
 
 **Young Marxists of Vietnam** - ["Community as Socialist Value"](https://youtu.be/0xA8QBdpPb8?si=typ5HHmtR0hDwWsI&t=197){:target="_blank"}
 
-**Non Serviam Media** - ["Libertarian Means Socialist with Jesse Spafford."](https://www.youtube.com/watch?v=l9irFVfyfSQ&ab_channel=NonServiamMedia){:target="_blank"}
+**Non Serviam Media** - ["Libertarian Means Socialist with Jesse Spafford"](https://www.youtube.com/watch?v=l9irFVfyfSQ&ab_channel=NonServiamMedia){:target="_blank"}
 
 **_What To Do About Now?_** - "[Javier Milei's Anarcho-Capitalism is Incoherent](https://www.whattodoaboutnow.com/post/the-incoherence-of-anarcho-capitalism){:target="_blank"}"
 
