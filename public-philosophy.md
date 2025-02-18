@@ -17,7 +17,7 @@ layout: page
 
 ## Interviews and Talks
 
-[Wellington Socialist Society](https://thecommonweal.substack.com/p/social-anarchism-and-the-rejection){:target="_blank"} - "Social Anarchism and the Rejection of Private Property." (public-facing talk)
+[Wellington Socialist Society](https://www.youtube.com/watch?v=mfPUKRp2xAI&ab_channel=NewZealandFederationofSocialistSocieties){:target="_blank"} - "Social Anarchism and the Rejection of Private Property." (public-facing talk)
 
 [Young Marxists of Vietnam](https://youtu.be/0xA8QBdpPb8?si=typ5HHmtR0hDwWsI&t=197){:target="_blank"} - "Community as Socialist Value." (public-facing talk)
 
