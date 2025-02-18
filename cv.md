@@ -159,7 +159,7 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Public Facing Work
 
-**Wellington Socialist Society** - ["Social Anarchism and the Rejection of Private Property"](https://thecommonweal.substack.com/p/social-anarchism-and-the-rejection){:target="_blank"}
+**Wellington Socialist Society** - ["Social Anarchism and the Rejection of Private Property"](https://www.youtube.com/watch?v=mfPUKRp2xAI&ab_channel=NewZealandFederationofSocialistSocieties){:target="_blank"}
 
 **_The Anarchist Review of Books_** - ["Because All We Have Is Each Other"](files/ARB.pdf){:target="_blank"}
 
