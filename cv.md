@@ -159,6 +159,8 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Public Facing Work
 
+**Anarchism Research Group Loughborough, "Anarchist Essays"** - ["The Anarchist Case Against Private Property"](https://www.youtube.com/watch?v=4iosK7lmNk8){:target="_blank"}
+
 **Wellington Socialist Society** - ["Social Anarchism and the Rejection of Private Property"](https://www.youtube.com/watch?v=mfPUKRp2xAI&ab_channel=NewZealandFederationofSocialistSocieties){:target="_blank"}
 
 **_The Anarchist Review of Books_** - ["Because All We Have Is Each Other"](files/ARB.pdf){:target="_blank"}
