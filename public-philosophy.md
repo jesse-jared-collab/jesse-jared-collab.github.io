@@ -15,6 +15,8 @@ layout: page
 
 [The Page 99 Test](https://page99test.blogspot.com/2023/11/jesse-spaffords-social-anarchism-and.html){:target="_blank"} - "Jesse Spafford's "Social Anarchism and the Rejection of Moral Tyranny"
 
+[Anarchist Essays](https://www.youtube.com/watch?v=4iosK7lmNk8){:target="_blank"} - "Jesse Spafford, 'The Anarchist Case Against Private Property'"
+
 ## Interviews and Talks
 
 [Wellington Socialist Society](https://www.youtube.com/watch?v=mfPUKRp2xAI&ab_channel=NewZealandFederationofSocialistSocieties){:target="_blank"} - "Social Anarchism and the Rejection of Private Property." (public-facing talk)
