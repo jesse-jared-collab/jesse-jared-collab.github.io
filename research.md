@@ -16,7 +16,7 @@ My book, [_Social Anarchism and the Rejection of Moral Tyranny_](https://www.cam
 
 ## Journal Articles
 
-"Rights Infringement, Compensation, and Luck Egalitarianism." (Forthcoming) _The Journal of Ethics and Social Philosophy_.
+"[Rights Infringement, Compensation, and Luck Egalitarianism](https://www.jesp.org/index.php/jesp/article/view/4137){:target="_blank"}." (2025) _The Journal of Ethics and Social Philosophy_ 30(3): 379-416.
 
 A standard assumption among rights theorists is that, if someone infringes another's right, she owes them compensation for any costs that she imposed via her infringement. This paper presents two arguments against this _Compensation Thesis_. First, it argues that proponents of the Compensation Thesis face a trilemma in cases where someone blamelessly infringes another's right. Specifically, they must either (a) hold that there is nothing unacceptably unfair about the person having to pay compensation in such cases, (b) contend that she does not actually infringe a right in such cases, or (c) reject the Compensation Thesis. The paper argues that, of these three options, the third is the most plausible solution to the trilemma. Second, the paper argues that the Compensation Thesis is incompatible with a plausible interpretation of luck egalitarianism. Thus, anyone attracted to luck egalitarianism has reason to reject the thesis. The paper also considers and rejects six arguments in favor of accepting the Compensation Thesis.
 
