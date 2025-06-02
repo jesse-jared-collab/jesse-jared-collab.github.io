@@ -37,7 +37,7 @@ _[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org
 
 ## Peer Reviewed Journal Articles
 
-"Rights Infringement, Compensation, and Luck Egalitarianism." (Forthcoming) _The Journal of Ethics and Social Philosophy_.
+"[Rights Infringement, Compensation, and Luck Egalitarianism](https://www.jesp.org/index.php/jesp/article/view/4137){:target="_blank"}." (2025) _The Journal of Ethics and Social Philosophy_ 30(3): 379-416.
 
 "[When 'Enough and as Good' Is Not Good Enough](https://link.springer.com/article/10.1007/s11158-023-09633-z){:target="_blank"}." (2024) _Res Publica_ 30(3): 469-85.
 
@@ -109,7 +109,7 @@ S. R. - "Enough is Enough: A Moral Argument for Socialism" (2024)
 
 ## Presentations
 
-"Rights Infringement, Compensation, and Luck Egalitarianism," presetned at the VUW Philosophy Colloquium, 2024.
+"Rights Infringement, Compensation, and Luck Egalitarianism," presented at the VUW Philosophy Colloquium, 2024.
 
 "Incas, Aliens, and Anarchists," presented at the Center for Global Ethics and Politics, 2024; the Philosophy, Politics, & Economics Society Annual Meeting, 2023; the VUW Philosophy Colloquium, 2023; the Tokyo Forum for Analytic Philosophy, 2023; and the American Philosophical Association Pacific Division Conference, 2023 (poster).
 
