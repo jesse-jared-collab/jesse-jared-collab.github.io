@@ -63,6 +63,10 @@ _[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org
 
 ## Teaching Experience
 
+**Political Philosophy** (PHIL303)
+_Course Co-Instructor - Victoria University of Wellington_ 
+Undergraduate course averaging 80 students per section. Fall 2025 (1 Section).
+
 **Philosophy, Politics and Economics** (PHPE401)
 _Course Co-Instructor - Victoria University of Wellington_
 Master's course averaging 14 students per section. Winter 2024 (1 Section).
