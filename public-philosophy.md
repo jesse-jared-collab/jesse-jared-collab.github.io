@@ -46,3 +46,7 @@ layout: page
 [Jacobin](https://jacobinmag.com/2022/04/us-tax-day-filing-complicated-returns){:target="_blank"} - "Doing Your Taxes Doesn't Have to Be This Miserable," by Ben Burgis.
 
 [Mises Institute](https://mises.org/library/anarchist-case-against-private-property){:target="_blank"} - "An Anarchist Case Against Private Property," by David Gordon.
+
+## Media Hits
+
+Quoted in the [Sunday Star-Times](https://www.thepost.co.nz/politics/360751616/who-anti-woke-crusader-act-has-invited-its-agm){:target="_blank"} on James Lindsay.
