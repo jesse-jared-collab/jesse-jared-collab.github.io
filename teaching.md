@@ -16,20 +16,23 @@ I sometimes have students write four-sentence papers. [Here](/files/FourSentence
 
 **Victoria University of Wellington**
 
-PHPE401 Philosophy, Politics and Economics (co-taught with Adrian Slack 2024). 
-[Syllabus](/files/401Syllabus.pdf){:target="_blank"}.
+PHIL104 Minds, Brains, and Persons (co-taught with Chloe Wall 2023). 
+[Reading List](/files/104Readings.pdf){:target="_blank"}.
 
 PHIL105 The Big Questions (co-taught with Richard Joyce 2024). 
-[Reading List](/files/105Readings.pdf){:target="_blank"}
+[Reading List](/files/105Readings.pdf){:target="_blank"}.
 
 PHIL202 Ethics (2024).
 [Syllabus](/files/202Syllabus.pdf){:target="_blank"}. 
 
+PHIL303 Political Philosophy (2025)
+[Syllabus](/files/303Syllabus.pdf){:target="_blank"}.
+
 PHIL449 Political Philosophy (2023). 
 [Syllabus](/files/449Syllabus.pdf){:target="_blank"}.
 
-PHIL104 Minds, Brains, and Persons (co-taught with Chloe Wall 2023). 
-[Reading List](/files/104Readings.pdf){:target="_blank"}.
+PHPE401 Philosophy, Politics and Economics (co-taught with Adrian Slack 2024). 
+[Syllabus](/files/401Syllabus.pdf){:target="_blank"}.
 
 **Brooklyn College**
 
