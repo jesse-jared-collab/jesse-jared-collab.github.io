@@ -113,9 +113,11 @@ S. R. - "Enough is Enough: A Moral Argument for Socialism" (2024)
 
 ## Presentations
 
-"Rights Infringement, Compensation, and Luck Egalitarianism," presented at the VUW Philosophy Colloquium, 2024.
+"Guardian Voluntarism," presented at the VUW Philosophy Colloquium, 2025.
 
-"Incas, Aliens, and Anarchists," presented at the Center for Global Ethics and Politics, 2024; the Philosophy, Politics, & Economics Society Annual Meeting, 2023; the VUW Philosophy Colloquium, 2023; the Tokyo Forum for Analytic Philosophy, 2023; and the American Philosophical Association Pacific Division Conference, 2023 (poster).
+"Incas, Aliens, and Anarchists," presented at the Seminar of International Social Science Studies (University of Tokyo), 2025; Center for Global Ethics and Politics, 2024; the Philosophy, Politics, & Economics Society Annual Meeting, 2023; the VUW Philosophy Colloquium, 2023; the Tokyo Forum for Analytic Philosophy, 2023; and the American Philosophical Association Pacific Division Conference, 2023 (poster).
+
+"Rights Infringement, Compensation, and Luck Egalitarianism," presented at the VUW Philosophy Colloquium, 2024.
 
 "Author Meets Critics: _Social Anarchism and the Rejection of Moral Tyranny_," presented at the Philosophy, Politics, & Economics Society Annual Meeting, 2023.
 
