@@ -63,13 +63,17 @@ _[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org
 
 ## Teaching Experience
 
+**Philosophy, Politics and Economics** (PHPE401)
+_Course Co-Instructor - Victoria University of Wellington_
+Master's course averaging 18 students per section. Winter 2025 (1 Section), Winter 2024 (1 Section).
+
+**Minds, Brains, and Persons** (PHIL104)  
+_Course Co-Instructor - Victoria University of Wellington_  
+Undergraduate course averaging 175 students per section. Winter 2025 (1 section), Winter 2023 (1 section).
+
 **Political Philosophy** (PHIL303)
 _Course Co-Instructor - Victoria University of Wellington_ 
 Undergraduate course averaging 80 students per section. Fall 2025 (1 Section).
-
-**Philosophy, Politics and Economics** (PHPE401)
-_Course Co-Instructor - Victoria University of Wellington_
-Master's course averaging 14 students per section. Winter 2024 (1 Section).
 
 **The Big Questions** (PHIL105)
 _Course Co-Instructor - Victoria University of Wellington_  
@@ -82,10 +86,6 @@ Undergraduate course averaging 85 students per section. Fall 2024 (1 Section).
 **Political Philosophy** (PHIL449)  
 _Course Instructor - Victoria University of Wellington_  
 Honours/Master's course averaging 20 students per section. Winter 2023 (1 section).
-
-**Minds, Brains, and Persons** (PHIL104)  
-_Course Co-Instructor - Victoria University of Wellington_  
-Undergraduate course averaging 250 students per section. Winter 2023 (1 section).
 
 **Business Ethics**  
 _Course Instructor - Brooklyn College_  
