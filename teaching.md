@@ -16,8 +16,8 @@ I sometimes have students write four-sentence papers. [Here](/files/FourSentence
 
 **Victoria University of Wellington**
 
-PHIL104 Minds, Brains, and Persons (co-taught with Chloe Wall 2023). 
-[Reading List](/files/104Readings.pdf){:target="_blank"}.
+PHIL104 Minds, Brains, and Persons (co-taught with Justin Sytsma 2025, Chloe Wall 2023). 
+[Reading List 2025](/files/1042025.pdf){:target="_blank"}. [Reading List 2023](/files/104Readings.pdf){:target="_blank"}.
 
 PHIL105 The Big Questions (co-taught with Richard Joyce 2024). 
 [Reading List](/files/105Readings.pdf){:target="_blank"}.
@@ -31,8 +31,8 @@ PHIL303 Political Philosophy (2025)
 PHIL449 Political Philosophy (2023). 
 [Syllabus](/files/449Syllabus.pdf){:target="_blank"}.
 
-PHPE401 Philosophy, Politics and Economics (co-taught with Adrian Slack 2024). 
-[Syllabus](/files/401Syllabus.pdf){:target="_blank"}.
+PHPE401 Philosophy, Politics and Economics (co-taught with Paul Calcott 2025, Adrian Slack 2024). 
+[2025 Syllabus](/files/4012025.pdf){:target="_blank"}. [2024 Syllabus](/files/401Syllabus.pdf){:target="_blank"}.
 
 **Brooklyn College**
 
