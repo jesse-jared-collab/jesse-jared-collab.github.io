@@ -72,7 +72,7 @@ _Course Co-Instructor - Victoria University of Wellington_
 Undergraduate course averaging 175 students per section. Winter 2025 (1 section), Winter 2023 (1 section).
 
 **Political Philosophy** (PHIL303)
-_Course Co-Instructor - Victoria University of Wellington_ 
+_Course Instructor - Victoria University of Wellington_ 
 Undergraduate course averaging 80 students per section. Fall 2025 (1 Section).
 
 **The Big Questions** (PHIL105)
