@@ -3,7 +3,7 @@ layout: home
 image: jesse_1034x1169.jpg
 ---
 
-I am a philosophy lecturer at Te Herenga Waka—Victoria University of Wellington and also the director of the [Master of Philosophy, Politics and Economics (MPPE) programme](https://www.wgtn.ac.nz/explore/postgraduate-programmes/master-of-philosophy-politics-and-economics/overview){:target="_blank"}. My research is focused on ethics and political philosophy, with particular attention paid to debates between libertarians, socialists, and anarchists over the moral status of the market and the state.
+I am a senior lecturer in philosophy at Te Herenga Waka—Victoria University of Wellington and also the director of the [Master of Philosophy, Politics and Economics (MPPE) programme](https://www.wgtn.ac.nz/explore/postgraduate-programmes/master-of-philosophy-politics-and-economics/overview){:target="_blank"}. My research is focused on ethics and political philosophy, with particular attention paid to debates between libertarians, socialists, and anarchists over the moral status of the market and the state.
 
 I am particularly interested in left-libertarianism---a philosophical position that holds that certain moral principles traditionally associated with libertarianism are compatible with egalitarian views about the distribution of resources. While standard accounts of left-libertarianism emphasize the mere compatibility of libertarian and egalitarian principles, I seek to demonstrate that core libertarian principles actually _entail_ that goods should be distributed in accordance with the egalitarian principles typically associated with the socialist left.
 
