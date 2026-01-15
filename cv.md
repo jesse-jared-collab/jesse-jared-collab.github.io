@@ -7,7 +7,7 @@ layout: page
 ## Employment
 
 **The Victoria University of Wellington**  
-Lecturer, 2023 - present.
+Senior Lecturer, 2023 - present.  
 Programme Director, Master's in Philosophy, Politics and Economics (MPPE), 2024 - present.
 
 **Project REAL** - Trinity College Dublin, September 2020-2023
@@ -63,24 +63,24 @@ _[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org
 
 ## Teaching Experience
 
-**Philosophy, Politics and Economics** (PHPE401)
-_Course Co-Instructor - Victoria University of Wellington_
+**Philosophy, Politics and Economics** (PHPE401)  
+_Course Co-Instructor - Victoria University of Wellington_  
 Master's course averaging 18 students per section. Winter 2025 (1 Section), Winter 2024 (1 Section).
 
 **Minds, Brains, and Persons** (PHIL104)  
 _Course Co-Instructor - Victoria University of Wellington_  
 Undergraduate course averaging 175 students per section. Winter 2025 (1 section), Winter 2023 (1 section).
 
-**Political Philosophy** (PHIL303)
-_Course Instructor - Victoria University of Wellington_ 
+**Political Philosophy** (PHIL303)  
+_Course Instructor - Victoria University of Wellington_  
 Undergraduate course averaging 80 students per section. Fall 2025 (1 Section).
 
-**The Big Questions** (PHIL105)
+**The Big Questions** (PHIL105)  
 _Course Co-Instructor - Victoria University of Wellington_  
 Undergraduate course averaging 125 students per section. Winter 2024 (2 sections).
 
-**Ethics** (PHIL202)
-_Course Instructor - Victoria University of Wellington_
+**Ethics** (PHIL202)  
+_Course Instructor - Victoria University of Wellington_  
 Undergraduate course averaging 85 students per section. Fall 2024 (1 Section).
 
 **Political Philosophy** (PHIL449)  
@@ -99,7 +99,7 @@ Undergraduate course averaging 35 students per section. Fall 2015 (1 section), S
 _Guest Lecturer - The Dalton School_  
 Led small group discussions on libertarian views of initial appropriation and anarchist strategies for social change. Fall 2017.
 
-**Writing Across the Curriculum**
+**Writing Across the Curriculum**  
 _WAC Fellow - Brooklyn College, 2018-2019_  
 Worked with faculty from various disciplines to help them integrate creative and research-supported writing assignments into their curricula.
 
