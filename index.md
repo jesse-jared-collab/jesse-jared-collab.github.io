@@ -1,6 +1,6 @@
 ---
 layout: home
-image: jesse_1034x1169.jpg
+image: jesse_1034x1379.jpg
 ---
 
 I am a senior lecturer in philosophy at Te Herenga Waka—Victoria University of Wellington and also the director of the [Master of Philosophy, Politics and Economics (MPPE) programme](https://www.wgtn.ac.nz/explore/postgraduate-programmes/master-of-philosophy-politics-and-economics/overview){:target="_blank"}. My research is focused on ethics and political philosophy, with particular attention paid to debates between libertarians, socialists, and anarchists over the moral status of the market and the state.
