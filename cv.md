@@ -7,7 +7,8 @@ layout: page
 ## Employment
 
 **The Victoria University of Wellington**  
-Senior Lecturer, 2023 - present.  
+Senior Lecturer, 2026 - present.  
+Lecturer 2023 - 2026  
 Programme Director, Master's in Philosophy, Politics and Economics (MPPE), 2024 - present.
 
 **Project REAL** - Trinity College Dublin, September 2020-2023
@@ -113,6 +114,8 @@ S. R. - "Enough is Enough: A Moral Argument for Socialism" (2024)
 
 ## Presentations
 
+"A Moral Disregard Theory of Rights Forfeiture," presented at the Australasian Workshop in Moral Philosophy, 2026.
+
 "Anarchism and Utilitarianism," presented at the VUW Philosophy Colloquium, 2025.
 
 "Guardian Voluntarism," presented at the VUW Philosophy Colloquium, 2025.
@@ -154,7 +157,7 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Service
 
-**Reviewing** – I have reviewed papers for the _Australasian Journal of Philosophy_, _Economics and Philosophy_, the _European Journal of Political Theory_, the _Journal of Ethics and Social Philosophy_, the _Journal of Social Philosophy_, the _Journal of Value Inquiry_, _Philosophical Studies_, and _Law, Ethics and Philosophy_.
+**Reviewing** – I have reviewed papers for the _Australasian Journal of Philosophy_, _Economics and Philosophy_, the _European Journal of Political Theory_, the _Journal of Ethics and Social Philosophy_, the _Journal of Social Philosophy_, the _Journal of Value Inquiry_, _Philosophical Studies_, _Law, Ethics and Philosophy_, and _Politics, Philosophy & Economics_.
 
 **Master of Philosophy, Politics and Economics Programme** (2024-present) I serve as the Director of the MPPE programme at Te Herenga Waka—Victoria University of Wellington.
 
