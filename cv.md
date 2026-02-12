@@ -157,7 +157,7 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Service
 
-**Reviewing** – I have reviewed papers for the _Australasian Journal of Philosophy_, _Economics and Philosophy_, the _European Journal of Political Theory_, the _Journal of Ethics and Social Philosophy_, the _Journal of Social Philosophy_, the _Journal of Value Inquiry_, _Philosophical Studies_, _Law, Ethics and Philosophy_, and _Politics, Philosophy & Economics_.
+**Reviewing** – I have reviewed papers for the _Australasian Journal of Philosophy_; _Economics and Philosophy_; the _European Journal of Political Theory_; the _Journal of Ethics and Social Philosophy_; the _Journal of Social Philosophy_; the _Journal of Value Inquiry_; _Philosophical Studies_; _Law, Ethics and Philosophy_; and _Politics, Philosophy & Economics_.
 
 **Master of Philosophy, Politics and Economics Programme** (2024-present) I serve as the Director of the MPPE programme at Te Herenga Waka—Victoria University of Wellington.
 
@@ -169,6 +169,8 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 
 ## Public Facing Work
+
+**Discourse** - [DEBATE: What Rights do We Have Over Resources? | Michael Huemer vs. Jesse Spafford](https://www.youtube.com/watch?v=2Yl0k6CvbiQ){:target="_blank"}
 
 **Anarchism Research Group Loughborough, "Anarchist Essays"** - ["The Anarchist Case Against Private Property"](https://www.youtube.com/watch?v=4iosK7lmNk8){:target="_blank"}
 
