@@ -54,3 +54,7 @@ layout: page
 Quoted in the [Sunday Star-Times](https://www.thepost.co.nz/politics/360751616/who-anti-woke-crusader-act-has-invited-its-agm){:target="_blank"} on James Lindsay.  
 
 Quoted in [_Salient_](https://www.salient.org.nz/post/not-evil-just-underpaid-why-you-think-people-suck) on human nature.
+
+## Substack
+
+I've been blogging a bit [on Substack](https://jessespafford.substack.com/). The content is limited to informal, non-philosophical (though maybe philosophy-adjacent) ideas.
