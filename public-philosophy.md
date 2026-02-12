@@ -19,6 +19,8 @@ layout: page
 
 ## Interviews and Talks
 
+[Discourse](https://www.youtube.com/watch?v=2Yl0k6CvbiQ){:target="_blank"} - "What Rights do We Have Over Resources? | Michael Huemer vs. Jesse Spafford" (debate)
+
 [Wellington Socialist Society](https://www.youtube.com/watch?v=mfPUKRp2xAI&ab_channel=NewZealandFederationofSocialistSocieties){:target="_blank"} - "Social Anarchism and the Rejection of Private Property." (public-facing talk)
 
 [Young Marxists of Vietnam](https://youtu.be/0xA8QBdpPb8?si=typ5HHmtR0hDwWsI&t=197){:target="_blank"} - "Community as Socialist Value." (public-facing talk)
@@ -49,4 +51,6 @@ layout: page
 
 ## Media Hits
 
-Quoted in the [Sunday Star-Times](https://www.thepost.co.nz/politics/360751616/who-anti-woke-crusader-act-has-invited-its-agm){:target="_blank"} on James Lindsay.
+Quoted in the [Sunday Star-Times](https://www.thepost.co.nz/politics/360751616/who-anti-woke-crusader-act-has-invited-its-agm){:target="_blank"} on James Lindsay.  
+
+Quoted in [_Salient_](https://www.salient.org.nz/post/not-evil-just-underpaid-why-you-think-people-suck) on human nature.
