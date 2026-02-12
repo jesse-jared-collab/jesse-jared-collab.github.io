@@ -57,4 +57,4 @@ Quoted in [_Salient_](https://www.salient.org.nz/post/not-evil-just-underpaid-wh
 
 ## Substack
 
-I've been blogging a bit [on Substack](https://jessespafford.substack.com/). The content is limited to informal, non-philosophical (though maybe philosophy-adjacent) ideas.
+I've been blogging a bit [on Substack](https://jessespafford.substack.com/){:target="_blank"}. The content is limited to informal, non-philosophical (though maybe philosophy-adjacent) ideas.
