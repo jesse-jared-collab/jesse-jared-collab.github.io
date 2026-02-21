@@ -19,7 +19,7 @@ layout: page
 
 ## Interviews and Talks
 
-[Discourse](https://www.youtube.com/watch?v=2Yl0k6CvbiQ){:target="_blank"} - "What Rights do We Have Over Resources? | Michael Huemer vs. Jesse Spafford" (debate)
+[Discourse](https://www.youtube.com/watch?v=2Yl0k6CvbiQ){:target="_blank"} - "What Rights do We Have Over Resources? - Michael Huemer vs. Jesse Spafford" (debate)
 
 [Wellington Socialist Society](https://www.youtube.com/watch?v=mfPUKRp2xAI&ab_channel=NewZealandFederationofSocialistSocieties){:target="_blank"} - "Social Anarchism and the Rejection of Private Property." (public-facing talk)
 
