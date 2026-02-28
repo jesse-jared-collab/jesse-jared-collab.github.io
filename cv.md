@@ -172,6 +172,8 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Public Facing Work
 
+**Interviews with Luke Jensen** [Thinking About Social Anarchism (and the Rejection of Moral Tyranny)](https://www.youtube.com/watch?v=V_94Lm_Fv0M){:target="_blank"}
+
 **Discourse** - [DEBATE: What Rights do We Have Over Resources? - Michael Huemer vs. Jesse Spafford](https://www.youtube.com/watch?v=2Yl0k6CvbiQ){:target="_blank"}
 
 **Anarchism Research Group Loughborough, "Anarchist Essays"** - ["The Anarchist Case Against Private Property"](https://www.youtube.com/watch?v=4iosK7lmNk8){:target="_blank"}
