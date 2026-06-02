@@ -7,11 +7,11 @@ layout: page
 ## Employment
 
 **The Victoria University of Wellington**  
-Senior Lecturer, 2026 - present.  
-Lecturer 2023 - 2026  
-Programme Director, Master's in Philosophy, Politics and Economics (MPPE), 2024 - present.
+Senior Lecturer, 2026–present.  
+Lecturer 2023–2026  
+Programme Director, Master's in Philosophy, Politics and Economics (MPPE), 2024–present.
 
-**Project REAL** - Trinity College Dublin, September 2020-2023
+**Project REAL** - Trinity College Dublin, September 2020–2023
 
 REAL was a five-year [research project](https://www.realresearch.eu/) headed by Adina Preda and funded by a European Research Council Consolidator grant. As a Research Fellow, I produced research that supported the project's mission to reconcile theories of rights and egalitarian theories of distributive justice.
 
