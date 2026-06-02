@@ -21,7 +21,7 @@ layout: page
 
 [Luke Jensen](https://www.youtube.com/watch?v=V_94Lm_Fv0M){:target="_blank"} interviews me about my book.
 
-[Discourse](https://www.youtube.com/watch?v=2Yl0k6CvbiQ){:target="_blank"} - "What Rights do We Have Over Resources? - Michael Huemer vs. Jesse Spafford" (YouTube debate)
+[Discourse](https://www.youtube.com/watch?v=2Yl0k6CvbiQ){:target="_blank"} - "What Rights do We Have Over Resources? - Michael Huemer vs. Jesse Spafford." (YouTube debate)
 
 [Wellington Socialist Society](https://www.youtube.com/watch?v=mfPUKRp2xAI&ab_channel=NewZealandFederationofSocialistSocieties){:target="_blank"} - "Social Anarchism and the Rejection of Private Property." (public-facing talk)
 
