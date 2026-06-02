@@ -23,7 +23,7 @@ REAL was a five-year [research project](https://www.realresearch.eu/) headed by 
 
 ## Book
 
-_[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org/core/books/social-anarchism-and-the-rejection-of-moral-tyranny/6B0E38604D6CE88BCBF699D7D2805E89){:target="_blank"}_. (2023) Cambridge: Cambridge University Press. Open access.
+_[Social Anarchism and the Rejection of Moral Tyranny]_(https://www.cambridge.org/core/books/social-anarchism-and-the-rejection-of-moral-tyranny/6B0E38604D6CE88BCBF699D7D2805E89){:target="_blank"}_. (2023) Cambridge: Cambridge University Press. Open access.
 
 **Reviews of the Book**  
 
