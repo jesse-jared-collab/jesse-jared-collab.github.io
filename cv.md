@@ -19,10 +19,6 @@ REAL was a five-year [research project](https://www.realresearch.eu/) headed by 
 
 **PhD** – The Graduate Center, CUNY, Philosophy, June 2020
 
-Areas of Specialization: Social and Political Philosophy; Ethics
-
-Areas of Competence: Philosophy, Politics, and Economics; Philosophy of Race and Gender; Philosophy of Science
-
 **BA** – Pomona College, Philosophy, May 2012
 
 ## Book
@@ -35,8 +31,13 @@ _[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org
 
 [_Reason_](https://reason.com/2024/03/31/a-social-anarchist-issues-a-challenge/){:target="_blank"} (Roderick Long)
 
+## Edited Book
+
+_Anarchism as a Practical Philosophy_. (forthcoming) Co-edited with [Lewis Ross](https://lewisdylanross.com/){:target="_blank"}. Cambridge University Press.
 
 ## Peer Reviewed Journal Articles
+
+"[Domination, Freedom and Relational Egalitarianism](https://academic.oup.com/analysis/advance-article-abstract/doi/10.1093/analys/anag023/8578794){:target="_blank"}. (forthcoming) _Analysis_.
 
 "[Rights Infringement, Compensation, and Luck Egalitarianism](https://www.jesp.org/index.php/jesp/article/view/4137){:target="_blank"}." (2025) _The Journal of Ethics and Social Philosophy_ 30(3): 379-416.
 
@@ -60,7 +61,7 @@ _[Social Anarchism and the Rejection of Moral Tyranny](https://www.cambridge.org
 
 ## Book Review
 
-"[Book Review of Gerald Lang's _Strokes of Luck: A Study in Moral and Political Philosophy_](files/Lang.pdf){:target="_blank"}." (2023) _Ethics_, 133(3):429-34.
+"[Book Review of Gerald Lang's _Strokes of Luck: A Study in Moral and Political Philosophy_](files/Lang.pdf){:target="_blank"}." (2023) _Ethics_, 133(3): 429-34.
 
 ## Teaching Experience
 
@@ -116,7 +117,7 @@ S. R. - "Enough is Enough: A Moral Argument for Socialism" (2024)
 
 ## Presentations
 
-"A Moral Disregard Theory of Rights Forfeiture," presented at the Australasian Workshop in Moral Philosophy, 2026.
+"A Moral Disregard Theory of Rights Forfeiture," presented at the Australasian Workshop in Moral Philosophy, 2026 and the VUW Philosophy Colloquium, 2026.
 
 "Anarchism and Utilitarianism," presented at the VUW Philosophy Colloquium, 2025.
 
@@ -159,7 +160,7 @@ Dustin Crummett and Philip Swenson, “Gun Control, the Right to Self-Defense, a
 
 ## Service
 
-**Reviewing** – I have reviewed papers for the _Australasian Journal of Philosophy_; _Economics and Philosophy_; the _European Journal of Political Theory_; the _Journal of Ethics and Social Philosophy_; the _Journal of Social Philosophy_; the _Journal of Value Inquiry_; _Philosophical Studies_; _Law, Ethics and Philosophy_; and _Politics, Philosophy & Economics_.
+**Reviewing** – I have reviewed papers for the _Australasian Journal of Philosophy_; _Economics and Philosophy_; the _European Journal of Political Theory_; the _Journal of Ethics and Social Philosophy_; the _Journal of Social Philosophy_; the _Journal of Value Inquiry_; _Law, Ethics and Philosophy_; _Philosophical Studies_; _Politics, Philosophy & Economics_; and _Res Publica_.
 
 **Master of Philosophy, Politics and Economics Programme** (2024-present) I serve as the Director of the MPPE programme at Te Herenga Waka—Victoria University of Wellington.
 
