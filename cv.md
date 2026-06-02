@@ -47,7 +47,7 @@ _Anarchism as a Practical Philosophy_. (forthcoming) Co-edited with [Lewis Ross]
 
 "[Luck Egalitarianism Without Moral Tyranny](https://link.springer.com/article/10.1007%2Fs11098-021-01667-4){:target="_blank"}." (2022) _Philosophical Studies_ 179(2): 469-93.
 
-"[Explanation, Justification, and Egalitarianism](https://link.springer.com/article/10.1007/s11229-021-03222-4){:target="_blank"}." (2021) _Synthese_ 199(3-4): 9699-9724.
+"[Explanation, Justification, and Egalitarianism](https://link.springer.com/article/10.1007/s11229-021-03222-4){:target="_blank"}." (2021) _Synthese_ 199(3-4): 9699-724.
 
 "[Does Initial Appropriation Create New Obligations?](http://jesp.org/index.php/jesp/article/view/952){:target="_blank"}" (2020) _The Journal of Ethics and Social Philosophy_ 17(2): 228-38.
 
