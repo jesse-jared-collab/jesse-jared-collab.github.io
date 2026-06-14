@@ -65,17 +65,21 @@ _Anarchism as a Practical Philosophy_. (forthcoming) Co-edited with [Lewis Ross]
 
 ## Teaching Experience
 
+**Political Philosophy** (PHIL303)  
+_Course Instructor - Victoria University of Wellington_  
+Undergraduate course averaging 80 students per section. Fall 2026 (1 section), Fall 2025 (1 section).
+
+**Political Philosophy** (PHIL449)  
+_Course Instructor - Victoria University of Wellington_  
+Honours/Master's course averaging 16 students per section. Fall 2026 (1 section), Winter 2023 (1 section).
+
 **Philosophy, Politics and Economics** (PHPE401)  
 _Course Co-Instructor - Victoria University of Wellington_  
-Master's course averaging 18 students per section. Winter 2025 (1 Section), Winter 2024 (1 Section).
+Master's course averaging 18 students per section. Winter 2025 (1 Section), Winter 2024 (1 section).
 
 **Minds, Brains, and Persons** (PHIL104)  
 _Course Co-Instructor - Victoria University of Wellington_  
 Undergraduate course averaging 175 students per section. Winter 2025 (1 section), Winter 2023 (1 section).
-
-**Political Philosophy** (PHIL303)  
-_Course Instructor - Victoria University of Wellington_  
-Undergraduate course averaging 80 students per section. Fall 2025 (1 Section).
 
 **The Big Questions** (PHIL105)  
 _Course Co-Instructor - Victoria University of Wellington_  
@@ -83,11 +87,7 @@ Undergraduate course averaging 125 students per section. Winter 2024 (2 sections
 
 **Ethics** (PHIL202)  
 _Course Instructor - Victoria University of Wellington_  
-Undergraduate course averaging 85 students per section. Fall 2024 (1 Section).
-
-**Political Philosophy** (PHIL449)  
-_Course Instructor - Victoria University of Wellington_  
-Honours/Master's course averaging 20 students per section. Winter 2023 (1 section).
+Undergraduate course averaging 85 students per section. Fall 2024 (1 section).
 
 **Business Ethics**  
 _Course Instructor - Brooklyn College_  
@@ -117,7 +117,9 @@ S. R. - "Enough is Enough: A Moral Argument for Socialism" (2024)
 
 ## Presentations
 
-"A Moral Disregard Theory of Rights Forfeiture," presented at the Australasian Workshop in Moral Philosophy, 2026 and the VUW Philosophy Colloquium, 2026.
+"A Legal Implementation of Luck Egalitarianism," presented at the 18th Metting of the Society for Social Choice and Welfare, 2026.
+
+"A Moral Disregard Theory of Rights Forfeiture," presented at the Australasian Workshop in Moral Philosophy, 2026; the VUW Philosophy Colloquium, 2026; and the Rights, Reciprocity, and Mental Health workshop (University of Tokyo), 2026.
 
 "Anarchism and Utilitarianism," presented at the VUW Philosophy Colloquium, 2025.
 
