@@ -57,7 +57,7 @@ _Anarchism as a Practical Philosophy_. (forthcoming) Co-edited with [Lewis Ross]
 
 ## Book Chapter
 
-"[Social Anarchism and the Rejection of Private Property](/files/SpaffordSocialAnarchism.pdf){:target="_blank"}." (2020) in [_The Routledge Handbook of Anarchy and Anarchist Thought_](https://www.routledge.com/The-Routledge-Handbook-of-Anarchy-and-Anarchist-Thought/Chartier-Schoelandt/p/book/9781138737587?fbclid=IwAR1djhuz_0oQd_CY3fza_aIuGvZUmVjk8H0yBn3dJHXP_Op_ZfZ9r6Dk5yc){:target="_blank"}, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
+"[Social Anarchism and the Rejection of Private Property](/files/SpaffordSocialAnarchism.pdf){:target="_blank"}." (2021) in [_The Routledge Handbook of Anarchy and Anarchist Thought_](https://www.routledge.com/The-Routledge-Handbook-of-Anarchy-and-Anarchist-Thought/Chartier-Schoelandt/p/book/9781138737587?fbclid=IwAR1djhuz_0oQd_CY3fza_aIuGvZUmVjk8H0yBn3dJHXP_Op_ZfZ9r6Dk5yc){:target="_blank"}, edited by Gary Chartier and Chad Van Schoelandt, Routledge.
 
 ## Book Review
 
