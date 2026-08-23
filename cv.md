@@ -117,6 +117,8 @@ S. R. - "Enough is Enough: A Moral Argument for Socialism" (2024)
 
 ## Presentations
 
+"An Argumentative Introduction to Anarchism," presented for Lectures on Tap, 2026.
+
 "A Legal Implementation of Luck Egalitarianism," presented at the 18th Metting of the Society for Social Choice and Welfare, 2026.
 
 "A Moral Disregard Theory of Rights Forfeiture," presented at the Australasian Workshop in Moral Philosophy, 2026; the VUW Philosophy Colloquium, 2026; and the Rights, Reciprocity, and Mental Health workshop (University of Tokyo), 2026.
