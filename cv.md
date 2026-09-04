@@ -117,6 +117,8 @@ S. R. - "Enough is Enough: A Moral Argument for Socialism" (2024)
 
 ## Presentations
 
+"Anarchism, Effective Altruism, and the Institutional Critique," presented at the Anarchist Studies Network's annual conference, 2026.
+
 "An Argumentative Introduction to Anarchism," presented for Lectures on Tap, 2026.
 
 "A Legal Implementation of Luck Egalitarianism," presented at the 18th Meeting of the Society for Social Choice and Welfare, 2026.
